@@ -1,0 +1,6068 @@
+[
+    {
+        "index": 0,
+        "brand": "אאודי",
+        "value": "1",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "100",
+                "model_value": "10001"
+            },
+            {
+                "index": 1,
+                "model_name": "80",
+                "model_value": "10002"
+            },
+            {
+                "index": 2,
+                "model_name": "A1",
+                "model_value": "10003"
+            },
+            {
+                "index": 3,
+                "model_name": "A3",
+                "model_value": "10004"
+            },
+            {
+                "index": 4,
+                "model_name": "A4",
+                "model_value": "10005"
+            },
+            {
+                "index": 5,
+                "model_name": "A5",
+                "model_value": "10006"
+            },
+            {
+                "index": 6,
+                "model_name": "A6",
+                "model_value": "10007"
+            },
+            {
+                "index": 7,
+                "model_name": "A6 e-tron",
+                "model_value": "10876"
+            },
+            {
+                "index": 8,
+                "model_name": "A7",
+                "model_value": "10008"
+            },
+            {
+                "index": 9,
+                "model_name": "A8",
+                "model_value": "10009"
+            },
+            {
+                "index": 10,
+                "model_name": "E-tron",
+                "model_value": "10010"
+            },
+            {
+                "index": 11,
+                "model_name": "E-tron GT",
+                "model_value": "10879"
+            },
+            {
+                "index": 12,
+                "model_name": "Q2",
+                "model_value": "10011"
+            },
+            {
+                "index": 13,
+                "model_name": "Q3",
+                "model_value": "10012"
+            },
+            {
+                "index": 14,
+                "model_name": "Q4 e-tron",
+                "model_value": "10883"
+            },
+            {
+                "index": 15,
+                "model_name": "Q5",
+                "model_value": "10013"
+            },
+            {
+                "index": 16,
+                "model_name": "Q6 e-tron",
+                "model_value": "13336"
+            },
+            {
+                "index": 17,
+                "model_name": "Q7",
+                "model_value": "10014"
+            },
+            {
+                "index": 18,
+                "model_name": "Q8",
+                "model_value": "10015"
+            },
+            {
+                "index": 19,
+                "model_name": "Q8 e-tron",
+                "model_value": "13069"
+            },
+            {
+                "index": 20,
+                "model_name": "R8",
+                "model_value": "10016"
+            },
+            {
+                "index": 21,
+                "model_name": "RS 3",
+                "model_value": "10017"
+            },
+            {
+                "index": 22,
+                "model_name": "RS 4",
+                "model_value": "10886"
+            },
+            {
+                "index": 23,
+                "model_name": "RS 5",
+                "model_value": "10018"
+            },
+            {
+                "index": 24,
+                "model_name": "RS 6",
+                "model_value": "10019"
+            },
+            {
+                "index": 25,
+                "model_name": "RS 7",
+                "model_value": "10020"
+            },
+            {
+                "index": 26,
+                "model_name": "RS E-tron GT",
+                "model_value": "10887"
+            },
+            {
+                "index": 27,
+                "model_name": "RS Q3",
+                "model_value": "10021"
+            },
+            {
+                "index": 28,
+                "model_name": "RS Q8",
+                "model_value": "10022"
+            },
+            {
+                "index": 29,
+                "model_name": "S1",
+                "model_value": "10023"
+            },
+            {
+                "index": 30,
+                "model_name": "S3",
+                "model_value": "10024"
+            },
+            {
+                "index": 31,
+                "model_name": "S4",
+                "model_value": "10025"
+            },
+            {
+                "index": 32,
+                "model_name": "S5",
+                "model_value": "10026"
+            },
+            {
+                "index": 33,
+                "model_name": "S6",
+                "model_value": "10027"
+            },
+            {
+                "index": 34,
+                "model_name": "S7",
+                "model_value": "10028"
+            },
+            {
+                "index": 35,
+                "model_name": "S8",
+                "model_value": "10029"
+            },
+            {
+                "index": 36,
+                "model_name": "SQ2",
+                "model_value": "10030"
+            },
+            {
+                "index": 37,
+                "model_name": "SQ5",
+                "model_value": "10031"
+            },
+            {
+                "index": 38,
+                "model_name": "SQ7",
+                "model_value": "10032"
+            },
+            {
+                "index": 39,
+                "model_name": "SQ8",
+                "model_value": "10889"
+            },
+            {
+                "index": 40,
+                "model_name": "SQ8 e-tron",
+                "model_value": "13222"
+            },
+            {
+                "index": 41,
+                "model_name": "TT",
+                "model_value": "10033"
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "brand": "אבארט",
+        "value": "53",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "124 ספיידר",
+                "model_value": "11861"
+            },
+            {
+                "index": 1,
+                "model_name": "500",
+                "model_value": "11862"
+            },
+            {
+                "index": 2,
+                "model_name": "500E",
+                "model_value": "13308"
+            },
+            {
+                "index": 3,
+                "model_name": "595",
+                "model_value": "10805"
+            },
+            {
+                "index": 4,
+                "model_name": "695",
+                "model_value": "11863"
+            },
+            {
+                "index": 5,
+                "model_name": "פונטו איבו",
+                "model_value": "13588"
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "brand": "אוטוביאנקי",
+        "value": "96",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "Y10",
+                "model_value": "10868"
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "brand": "אופל",
+        "value": "2",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אדם",
+                "model_value": "10034"
+            },
+            {
+                "index": 1,
+                "model_name": "אומגה",
+                "model_value": "10047"
+            },
+            {
+                "index": 2,
+                "model_name": "אינסיגניה",
+                "model_value": "10042"
+            },
+            {
+                "index": 3,
+                "model_name": "אסטרה",
+                "model_value": "10035"
+            },
+            {
+                "index": 4,
+                "model_name": "גרנדלנד",
+                "model_value": "10041"
+            },
+            {
+                "index": 5,
+                "model_name": "ויוארו",
+                "model_value": "10050"
+            },
+            {
+                "index": 6,
+                "model_name": "וקטרה",
+                "model_value": "10049"
+            },
+            {
+                "index": 7,
+                "model_name": "זאפירה",
+                "model_value": "10051"
+            },
+            {
+                "index": 8,
+                "model_name": "זאפירה לייף",
+                "model_value": "10913"
+            },
+            {
+                "index": 9,
+                "model_name": "טיגרה",
+                "model_value": "10048"
+            },
+            {
+                "index": 10,
+                "model_name": "מובאנו",
+                "model_value": "10046"
+            },
+            {
+                "index": 11,
+                "model_name": "מוקה",
+                "model_value": "10045"
+            },
+            {
+                "index": 12,
+                "model_name": "מריבה",
+                "model_value": "10044"
+            },
+            {
+                "index": 13,
+                "model_name": "פרונטרה",
+                "model_value": "10040"
+            },
+            {
+                "index": 14,
+                "model_name": "קומבו",
+                "model_value": "10037"
+            },
+            {
+                "index": 15,
+                "model_name": "קורסה",
+                "model_value": "10038"
+            },
+            {
+                "index": 16,
+                "model_name": "קסקדה",
+                "model_value": "10036"
+            },
+            {
+                "index": 17,
+                "model_name": "קרוסלנד",
+                "model_value": "10899"
+            },
+            {
+                "index": 18,
+                "model_name": "קרוסלנד X",
+                "model_value": "10039"
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "brand": "אורה",
+        "value": "224",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "03",
+                "model_value": "13012"
+            },
+            {
+                "index": 1,
+                "model_name": "07",
+                "model_value": "13341"
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "brand": "אי.וי איזי",
+        "value": "323",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "Limo",
+                "model_value": "13187"
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "brand": "איוויס",
+        "value": "288",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "U5",
+                "model_value": "12929"
+            },
+            {
+                "index": 1,
+                "model_name": "U6",
+                "model_value": "13096"
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "brand": "איווקו",
+        "value": "85",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "דיילי",
+                "model_value": "10859"
+            },
+            {
+                "index": 1,
+                "model_name": "מאסיף",
+                "model_value": "12103"
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "brand": "אינפיניטי",
+        "value": "3",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "EX37",
+                "model_value": "10914"
+            },
+            {
+                "index": 1,
+                "model_name": "FX35",
+                "model_value": "10052"
+            },
+            {
+                "index": 2,
+                "model_name": "FX37",
+                "model_value": "13124"
+            },
+            {
+                "index": 3,
+                "model_name": "FX50",
+                "model_value": "13125"
+            },
+            {
+                "index": 4,
+                "model_name": "G37",
+                "model_value": "10053"
+            },
+            {
+                "index": 5,
+                "model_name": "Q30",
+                "model_value": "10055"
+            },
+            {
+                "index": 6,
+                "model_name": "Q50",
+                "model_value": "10056"
+            },
+            {
+                "index": 7,
+                "model_name": "Q60",
+                "model_value": "10057"
+            },
+            {
+                "index": 8,
+                "model_name": "Q70",
+                "model_value": "10058"
+            },
+            {
+                "index": 9,
+                "model_name": "QX30",
+                "model_value": "10059"
+            },
+            {
+                "index": 10,
+                "model_name": "QX50",
+                "model_value": "10060"
+            },
+            {
+                "index": 11,
+                "model_name": "QX55",
+                "model_value": "10924"
+            },
+            {
+                "index": 12,
+                "model_name": "QX60",
+                "model_value": "10062"
+            },
+            {
+                "index": 13,
+                "model_name": "QX70",
+                "model_value": "10063"
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "brand": "איסוזו",
+        "value": "4",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "איפון",
+                "model_value": "10066"
+            },
+            {
+                "index": 1,
+                "model_name": "אקסיום",
+                "model_value": "10064"
+            },
+            {
+                "index": 2,
+                "model_name": "די-מקס",
+                "model_value": "10065"
+            },
+            {
+                "index": 3,
+                "model_name": "טרופר",
+                "model_value": "10068"
+            },
+            {
+                "index": 4,
+                "model_name": "רודאו",
+                "model_value": "10067"
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "brand": "אל.אי.וי.סי",
+        "value": "299",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "TX",
+                "model_value": "13071"
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "brand": "אלפא רומיאו",
+        "value": "5",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "145",
+                "model_value": "10069"
+            },
+            {
+                "index": 1,
+                "model_name": "146",
+                "model_value": "10070"
+            },
+            {
+                "index": 2,
+                "model_name": "147",
+                "model_value": "10071"
+            },
+            {
+                "index": 3,
+                "model_name": "156",
+                "model_value": "10072"
+            },
+            {
+                "index": 4,
+                "model_name": "159",
+                "model_value": "10073"
+            },
+            {
+                "index": 5,
+                "model_name": "166",
+                "model_value": "10075"
+            },
+            {
+                "index": 6,
+                "model_name": "4C",
+                "model_value": "10077"
+            },
+            {
+                "index": 7,
+                "model_name": "75",
+                "model_value": "10941"
+            },
+            {
+                "index": 8,
+                "model_name": "GT",
+                "model_value": "10082"
+            },
+            {
+                "index": 9,
+                "model_name": "GTV",
+                "model_value": "10083"
+            },
+            {
+                "index": 10,
+                "model_name": "בררה",
+                "model_value": "10079"
+            },
+            {
+                "index": 11,
+                "model_name": "ג'וליה",
+                "model_value": "10080"
+            },
+            {
+                "index": 12,
+                "model_name": "ג'ולייטה",
+                "model_value": "10081"
+            },
+            {
+                "index": 13,
+                "model_name": "ג'וניור",
+                "model_value": "13393"
+            },
+            {
+                "index": 14,
+                "model_name": "טונלה",
+                "model_value": "12912"
+            },
+            {
+                "index": 15,
+                "model_name": "מיטו",
+                "model_value": "10084"
+            },
+            {
+                "index": 16,
+                "model_name": "סטלביו",
+                "model_value": "10086"
+            },
+            {
+                "index": 17,
+                "model_name": "ספיידר",
+                "model_value": "10085"
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "brand": "אלפין",
+        "value": "115",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "A110",
+                "model_value": "12185"
+            }
+        ]
+    },
+    {
+        "index": 16,
+        "brand": "אם ג'י",
+        "value": "6",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "350",
+                "model_value": "10087"
+            },
+            {
+                "index": 1,
+                "model_name": "550",
+                "model_value": "10953"
+            },
+            {
+                "index": 2,
+                "model_name": "EHS PHEV",
+                "model_value": "13059"
+            },
+            {
+                "index": 3,
+                "model_name": "MG3",
+                "model_value": "10089"
+            },
+            {
+                "index": 4,
+                "model_name": "MG4",
+                "model_value": "13065"
+            },
+            {
+                "index": 5,
+                "model_name": "MG5",
+                "model_value": "10952"
+            },
+            {
+                "index": 6,
+                "model_name": "RX5",
+                "model_value": "10091"
+            },
+            {
+                "index": 7,
+                "model_name": "ZR",
+                "model_value": "10092"
+            },
+            {
+                "index": 8,
+                "model_name": "ZS",
+                "model_value": "10093"
+            },
+            {
+                "index": 9,
+                "model_name": "ZT",
+                "model_value": "10094"
+            },
+            {
+                "index": 10,
+                "model_name": "מארוול R",
+                "model_value": "12880"
+            }
+        ]
+    },
+    {
+        "index": 17,
+        "brand": "אס דאבל יו אמ",
+        "value": "345",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "G01",
+                "model_value": "13312"
+            },
+            {
+                "index": 1,
+                "model_name": "X30LEV",
+                "model_value": "13349"
+            }
+        ]
+    },
+    {
+        "index": 18,
+        "brand": "אסטון מרטין",
+        "value": "54",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "DB11",
+                "model_value": "10806"
+            },
+            {
+                "index": 1,
+                "model_name": "DB12",
+                "model_value": "13153"
+            },
+            {
+                "index": 2,
+                "model_name": "DB9",
+                "model_value": "10807"
+            },
+            {
+                "index": 3,
+                "model_name": "DBS",
+                "model_value": "10808"
+            },
+            {
+                "index": 4,
+                "model_name": "DBX",
+                "model_value": "10809"
+            },
+            {
+                "index": 5,
+                "model_name": "Rapide",
+                "model_value": "10810"
+            },
+            {
+                "index": 6,
+                "model_name": "ואנטאג'",
+                "model_value": "10812"
+            },
+            {
+                "index": 7,
+                "model_name": "ואנקוויש",
+                "model_value": "10813"
+            }
+        ]
+    },
+    {
+        "index": 19,
+        "brand": "אקורה",
+        "value": "111",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "MDX",
+                "model_value": "13226"
+            },
+            {
+                "index": 1,
+                "model_name": "אינטגרה",
+                "model_value": "13225"
+            }
+        ]
+    },
+    {
+        "index": 21,
+        "brand": "אקספנג",
+        "value": "290",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "P7",
+                "model_value": "13164"
+            },
+            {
+                "index": 1,
+                "model_name": "G3",
+                "model_value": "12841"
+            },
+            {
+                "index": 2,
+                "model_name": "G6",
+                "model_value": "13352"
+            },
+            {
+                "index": 3,
+                "model_name": "G9",
+                "model_value": "13178"
+            }
+        ]
+    },
+    {
+        "index": 23,
+        "brand": "ב מ וו",
+        "value": "7",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "I5",
+                "model_value": "13309"
+            },
+            {
+                "index": 1,
+                "model_name": "IX1",
+                "model_value": "13135"
+            },
+            {
+                "index": 2,
+                "model_name": "M2",
+                "model_value": "10105"
+            },
+            {
+                "index": 3,
+                "model_name": "M3",
+                "model_value": "10106"
+            },
+            {
+                "index": 4,
+                "model_name": "M4",
+                "model_value": "10107"
+            },
+            {
+                "index": 5,
+                "model_name": "M5",
+                "model_value": "10108"
+            },
+            {
+                "index": 6,
+                "model_name": "M6",
+                "model_value": "10109"
+            },
+            {
+                "index": 7,
+                "model_name": "M8",
+                "model_value": "10110"
+            },
+            {
+                "index": 8,
+                "model_name": "X1",
+                "model_value": "10111"
+            },
+            {
+                "index": 9,
+                "model_name": "X2",
+                "model_value": "10112"
+            },
+            {
+                "index": 10,
+                "model_name": "X3",
+                "model_value": "10113"
+            },
+            {
+                "index": 11,
+                "model_name": "X3 M",
+                "model_value": "10968"
+            },
+            {
+                "index": 12,
+                "model_name": "X4",
+                "model_value": "10114"
+            },
+            {
+                "index": 13,
+                "model_name": "X4 M",
+                "model_value": "10115"
+            },
+            {
+                "index": 14,
+                "model_name": "X5",
+                "model_value": "10116"
+            },
+            {
+                "index": 15,
+                "model_name": "X5 M",
+                "model_value": "10117"
+            },
+            {
+                "index": 16,
+                "model_name": "X6",
+                "model_value": "10118"
+            },
+            {
+                "index": 17,
+                "model_name": "X6 M",
+                "model_value": "10119"
+            },
+            {
+                "index": 18,
+                "model_name": "X7",
+                "model_value": "10120"
+            },
+            {
+                "index": 19,
+                "model_name": "XM",
+                "model_value": "13121"
+            },
+            {
+                "index": 20,
+                "model_name": "Z3",
+                "model_value": "10121"
+            },
+            {
+                "index": 21,
+                "model_name": "Z4",
+                "model_value": "10122"
+            },
+            {
+                "index": 22,
+                "model_name": "i3",
+                "model_value": "10103"
+            },
+            {
+                "index": 23,
+                "model_name": "i4",
+                "model_value": "10963"
+            },
+            {
+                "index": 24,
+                "model_name": "i7",
+                "model_value": "13013"
+            },
+            {
+                "index": 25,
+                "model_name": "i8",
+                "model_value": "10104"
+            },
+            {
+                "index": 26,
+                "model_name": "iX",
+                "model_value": "10964"
+            },
+            {
+                "index": 27,
+                "model_name": "iX2",
+                "model_value": "13259"
+            },
+            {
+                "index": 28,
+                "model_name": "iX3",
+                "model_value": "10965"
+            },
+            {
+                "index": 29,
+                "model_name": "סדרה 1",
+                "model_value": "10095"
+            },
+            {
+                "index": 30,
+                "model_name": "סדרה 2",
+                "model_value": "10096"
+            },
+            {
+                "index": 31,
+                "model_name": "סדרה 3",
+                "model_value": "10097"
+            },
+            {
+                "index": 32,
+                "model_name": "סדרה 4",
+                "model_value": "10098"
+            },
+            {
+                "index": 33,
+                "model_name": "סדרה 5",
+                "model_value": "10099"
+            },
+            {
+                "index": 34,
+                "model_name": "סדרה 6",
+                "model_value": "10100"
+            },
+            {
+                "index": 35,
+                "model_name": "סדרה 7",
+                "model_value": "10101"
+            },
+            {
+                "index": 36,
+                "model_name": "סדרה 8",
+                "model_value": "10102"
+            }
+        ]
+    },
+    {
+        "index": 25,
+        "brand": "בי.איי.דאבליו",
+        "value": "193",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "פוני",
+                "model_value": "13143"
+            }
+        ]
+    },
+    {
+        "index": 26,
+        "brand": "בי.ווי.די",
+        "value": "141",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "ETP3",
+                "model_value": "13188"
+            },
+            {
+                "index": 1,
+                "model_name": "אטו 3",
+                "model_value": "13050"
+            },
+            {
+                "index": 2,
+                "model_name": "דולפין",
+                "model_value": "12975"
+            },
+            {
+                "index": 3,
+                "model_name": "האן",
+                "model_value": "12923"
+            },
+            {
+                "index": 4,
+                "model_name": "טאנג",
+                "model_value": "12962"
+            },
+            {
+                "index": 5,
+                "model_name": "סיל",
+                "model_value": "13231"
+            },
+            {
+                "index": 6,
+                "model_name": "סיל U",
+                "model_value": "13329"
+            }
+        ]
+    },
+    {
+        "index": 27,
+        "brand": "ביואיק",
+        "value": "8",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אנקלייב",
+                "model_value": "10123"
+            },
+            {
+                "index": 1,
+                "model_name": "לה-סייבר",
+                "model_value": "10126"
+            },
+            {
+                "index": 2,
+                "model_name": "לה-קרוס",
+                "model_value": "10125"
+            },
+            {
+                "index": 3,
+                "model_name": "לוצרן",
+                "model_value": "10127"
+            },
+            {
+                "index": 4,
+                "model_name": "פארק אבניו",
+                "model_value": "10128"
+            },
+            {
+                "index": 5,
+                "model_name": "רנדוו",
+                "model_value": "10129"
+            }
+        ]
+    },
+    {
+        "index": 28,
+        "brand": "בנטלי",
+        "value": "55",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "בנטאיגה",
+                "model_value": "10814"
+            },
+            {
+                "index": 1,
+                "model_name": "פליינג ספור",
+                "model_value": "10817"
+            },
+            {
+                "index": 2,
+                "model_name": "קונטיננטל",
+                "model_value": "10815"
+            },
+            {
+                "index": 3,
+                "model_name": "קונטיננטל GT",
+                "model_value": "10816"
+            }
+        ]
+    },
+    {
+        "index": 30,
+        "brand": "ג'י.איי.סי",
+        "value": "99",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "GE3",
+                "model_value": "10871"
+            }
+        ]
+    },
+    {
+        "index": 31,
+        "brand": "ג'י.אם.סי",
+        "value": "9",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אכאדיה",
+                "model_value": "10131"
+            },
+            {
+                "index": 1,
+                "model_name": "ג'ימי",
+                "model_value": "10132"
+            },
+            {
+                "index": 2,
+                "model_name": "האמר EV",
+                "model_value": "13294"
+            },
+            {
+                "index": 3,
+                "model_name": "ונדורה",
+                "model_value": "10138"
+            },
+            {
+                "index": 4,
+                "model_name": "יוקון",
+                "model_value": "10139"
+            },
+            {
+                "index": 5,
+                "model_name": "סאברבן",
+                "model_value": "10137"
+            },
+            {
+                "index": 6,
+                "model_name": "סוואנה",
+                "model_value": "10134"
+            },
+            {
+                "index": 7,
+                "model_name": "סונומה",
+                "model_value": "10136"
+            },
+            {
+                "index": 8,
+                "model_name": "סיירה",
+                "model_value": "10135"
+            },
+            {
+                "index": 9,
+                "model_name": "סיירה EV",
+                "model_value": "13533"
+            },
+            {
+                "index": 10,
+                "model_name": "ספארי",
+                "model_value": "10133"
+            }
+        ]
+    },
+    {
+        "index": 32,
+        "brand": "ג'יפ",
+        "value": "10",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אוונגר",
+                "model_value": "13199"
+            },
+            {
+                "index": 1,
+                "model_name": "גלדיאטור",
+                "model_value": "10143"
+            },
+            {
+                "index": 2,
+                "model_name": "גראנד וואגוניר",
+                "model_value": "13132"
+            },
+            {
+                "index": 3,
+                "model_name": "גרנד צ'ירוקי",
+                "model_value": "10144"
+            },
+            {
+                "index": 4,
+                "model_name": "וגוניר",
+                "model_value": "11000"
+            },
+            {
+                "index": 5,
+                "model_name": "פטריוט",
+                "model_value": "10145"
+            },
+            {
+                "index": 6,
+                "model_name": "צ'ירוקי",
+                "model_value": "10140"
+            },
+            {
+                "index": 7,
+                "model_name": "קומנדר",
+                "model_value": "10141"
+            },
+            {
+                "index": 8,
+                "model_name": "קומפאס",
+                "model_value": "10142"
+            },
+            {
+                "index": 9,
+                "model_name": "רנגייד",
+                "model_value": "10146"
+            },
+            {
+                "index": 10,
+                "model_name": "רנגלר",
+                "model_value": "10147"
+            }
+        ]
+    },
+    {
+        "index": 33,
+        "brand": "ג'נסיס",
+        "value": "93",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "G70",
+                "model_value": "12137"
+            },
+            {
+                "index": 1,
+                "model_name": "G80",
+                "model_value": "12138"
+            },
+            {
+                "index": 2,
+                "model_name": "G90",
+                "model_value": "10863"
+            },
+            {
+                "index": 3,
+                "model_name": "GV60",
+                "model_value": "13025"
+            },
+            {
+                "index": 4,
+                "model_name": "GV70",
+                "model_value": "12140"
+            },
+            {
+                "index": 5,
+                "model_name": "GV80",
+                "model_value": "10864"
+            }
+        ]
+    },
+    {
+        "index": 35,
+        "brand": "גיאיוואן",
+        "value": "346",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "קומי",
+                "model_value": "13315"
+            }
+        ]
+    },
+    {
+        "index": 36,
+        "brand": "גרייט וול",
+        "value": "11",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "C10",
+                "model_value": "10152"
+            },
+            {
+                "index": 1,
+                "model_name": "הובר H6",
+                "model_value": "10150"
+            },
+            {
+                "index": 2,
+                "model_name": "סטיד",
+                "model_value": "10151"
+            },
+            {
+                "index": 3,
+                "model_name": "פלוריד",
+                "model_value": "10149"
+            },
+            {
+                "index": 4,
+                "model_name": "קולבר",
+                "model_value": "10148"
+            }
+        ]
+    },
+    {
+        "index": 37,
+        "brand": "ג׳יי.איי.סי",
+        "value": "200",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "30",
+                "model_value": "13511"
+            },
+            {
+                "index": 1,
+                "model_name": "E-JS4",
+                "model_value": "13111"
+            },
+            {
+                "index": 2,
+                "model_name": "E-S2",
+                "model_value": "13112"
+            },
+            {
+                "index": 3,
+                "model_name": "E-S4",
+                "model_value": "13113"
+            },
+            {
+                "index": 4,
+                "model_name": "IC5",
+                "model_value": "13114"
+            }
+        ]
+    },
+    {
+        "index": 38,
+        "brand": "ג׳ילי",
+        "value": "177",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "גלקסי E5",
+                "model_value": "13409"
+            },
+            {
+                "index": 1,
+                "model_name": "Geometry C",
+                "model_value": "13054"
+            }
+        ]
+    },
+    {
+        "index": 39,
+        "brand": "דאבל יו אם מוטורס",
+        "value": "329",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "דאבל יו 5",
+                "model_value": "13110"
+            }
+        ]
+    },
+    {
+        "index": 41,
+        "brand": "דאצ'יה",
+        "value": "12",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "ביגסטר",
+                "model_value": "13491"
+            },
+            {
+                "index": 1,
+                "model_name": "ג׳וגר",
+                "model_value": "13015"
+            },
+            {
+                "index": 2,
+                "model_name": "דאסטר",
+                "model_value": "10154"
+            },
+            {
+                "index": 3,
+                "model_name": "דוקר",
+                "model_value": "10153"
+            },
+            {
+                "index": 4,
+                "model_name": "לוגאן",
+                "model_value": "10156"
+            },
+            {
+                "index": 5,
+                "model_name": "לודג'י",
+                "model_value": "10155"
+            },
+            {
+                "index": 6,
+                "model_name": "סנדרו",
+                "model_value": "10157"
+            },
+            {
+                "index": 7,
+                "model_name": "סנדרו Stepway",
+                "model_value": "13424"
+            },
+            {
+                "index": 8,
+                "model_name": "ספרינג",
+                "model_value": "11019"
+            }
+        ]
+    },
+    {
+        "index": 42,
+        "brand": "דודג'",
+        "value": "13",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אוונג'ר",
+                "model_value": "10158"
+            },
+            {
+                "index": 1,
+                "model_name": "ג'רני",
+                "model_value": "10164"
+            },
+            {
+                "index": 2,
+                "model_name": "דורנגו",
+                "model_value": "10163"
+            },
+            {
+                "index": 3,
+                "model_name": "ניטרו",
+                "model_value": "10165"
+            },
+            {
+                "index": 4,
+                "model_name": "צ'ארג'ר",
+                "model_value": "10162"
+            },
+            {
+                "index": 5,
+                "model_name": "צ'לנג'ר",
+                "model_value": "10161"
+            },
+            {
+                "index": 6,
+                "model_name": "קאליבר",
+                "model_value": "10159"
+            },
+            {
+                "index": 7,
+                "model_name": "קראוון",
+                "model_value": "10160"
+            }
+        ]
+    },
+    {
+        "index": 43,
+        "brand": "דונגפנג",
+        "value": "88",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "C31",
+                "model_value": "13044"
+            },
+            {
+                "index": 1,
+                "model_name": "C32",
+                "model_value": "13045"
+            },
+            {
+                "index": 2,
+                "model_name": "C35",
+                "model_value": "13223"
+            },
+            {
+                "index": 3,
+                "model_name": "KO1",
+                "model_value": "13043"
+            },
+            {
+                "index": 4,
+                "model_name": "KO2",
+                "model_value": "13042"
+            },
+            {
+                "index": 5,
+                "model_name": "KO5",
+                "model_value": "13041"
+            },
+            {
+                "index": 6,
+                "model_name": "MHERO 1",
+                "model_value": "13430"
+            },
+            {
+                "index": 7,
+                "model_name": "בוקס",
+                "model_value": "13431"
+            },
+            {
+                "index": 8,
+                "model_name": "גלורי 580",
+                "model_value": "13046"
+            }
+        ]
+    },
+    {
+        "index": 44,
+        "brand": "די.אס",
+        "value": "14",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "3",
+                "model_value": "10167"
+            },
+            {
+                "index": 1,
+                "model_name": "4",
+                "model_value": "11033"
+            },
+            {
+                "index": 2,
+                "model_name": "5",
+                "model_value": "10168"
+            },
+            {
+                "index": 3,
+                "model_name": "7",
+                "model_value": "10169"
+            }
+        ]
+    },
+    {
+        "index": 45,
+        "brand": "דייהו",
+        "value": "60",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אספרו",
+                "model_value": "10833"
+            },
+            {
+                "index": 1,
+                "model_name": "טאקומה",
+                "model_value": "10844"
+            },
+            {
+                "index": 2,
+                "model_name": "טיקו",
+                "model_value": "10845"
+            },
+            {
+                "index": 3,
+                "model_name": "לאנוס",
+                "model_value": "10835"
+            },
+            {
+                "index": 4,
+                "model_name": "לגנזה",
+                "model_value": "10836"
+            },
+            {
+                "index": 5,
+                "model_name": "מאטיס",
+                "model_value": "10837"
+            },
+            {
+                "index": 6,
+                "model_name": "מוסו",
+                "model_value": "10838"
+            },
+            {
+                "index": 7,
+                "model_name": "נובירה",
+                "model_value": "10840"
+            },
+            {
+                "index": 8,
+                "model_name": "נקסייה",
+                "model_value": "10839"
+            },
+            {
+                "index": 9,
+                "model_name": "סופר סלון",
+                "model_value": "10843"
+            },
+            {
+                "index": 10,
+                "model_name": "פרינס",
+                "model_value": "10841"
+            },
+            {
+                "index": 11,
+                "model_name": "צ'רמן",
+                "model_value": "10832"
+            },
+            {
+                "index": 12,
+                "model_name": "קורנדו",
+                "model_value": "10834"
+            },
+            {
+                "index": 13,
+                "model_name": "רייסר",
+                "model_value": "10842"
+            }
+        ]
+    },
+    {
+        "index": 46,
+        "brand": "דייהטסו",
+        "value": "15",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "YRV",
+                "model_value": "10178"
+            },
+            {
+                "index": 1,
+                "model_name": "אפלאוז",
+                "model_value": "10170"
+            },
+            {
+                "index": 2,
+                "model_name": "גרנד מוב",
+                "model_value": "10174"
+            },
+            {
+                "index": 3,
+                "model_name": "טריוס",
+                "model_value": "10177"
+            },
+            {
+                "index": 4,
+                "model_name": "מאטריה",
+                "model_value": "10175"
+            },
+            {
+                "index": 5,
+                "model_name": "סיריון",
+                "model_value": "10176"
+            },
+            {
+                "index": 6,
+                "model_name": "פרוזה",
+                "model_value": "10173"
+            },
+            {
+                "index": 7,
+                "model_name": "קורה",
+                "model_value": "10172"
+            },
+            {
+                "index": 8,
+                "model_name": "שרייד",
+                "model_value": "10171"
+            }
+        ]
+    },
+    {
+        "index": 47,
+        "brand": "דיפאל",
+        "value": "362",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "S07",
+                "model_value": "13472"
+            }
+        ]
+    },
+    {
+        "index": 48,
+        "brand": "האמר",
+        "value": "16",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "H1",
+                "model_value": "11062"
+            },
+            {
+                "index": 1,
+                "model_name": "H2",
+                "model_value": "10179"
+            },
+            {
+                "index": 2,
+                "model_name": "H3",
+                "model_value": "10180"
+            }
+        ]
+    },
+    {
+        "index": 49,
+        "brand": "הונגצ'י",
+        "value": "301",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "E-HS9",
+                "model_value": "12992"
+            },
+            {
+                "index": 1,
+                "model_name": "EH7",
+                "model_value": "13540"
+            },
+            {
+                "index": 2,
+                "model_name": "EHS7",
+                "model_value": "13483"
+            },
+            {
+                "index": 3,
+                "model_name": "הוסדו",
+                "model_value": "13116"
+            }
+        ]
+    },
+    {
+        "index": 50,
+        "brand": "הונדה",
+        "value": "17",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "CR-V",
+                "model_value": "10183"
+            },
+            {
+                "index": 1,
+                "model_name": "CR-Z",
+                "model_value": "10184"
+            },
+            {
+                "index": 2,
+                "model_name": "FR-V",
+                "model_value": "10185"
+            },
+            {
+                "index": 3,
+                "model_name": "HR-V",
+                "model_value": "10186"
+            },
+            {
+                "index": 4,
+                "model_name": "S2000",
+                "model_value": "10193"
+            },
+            {
+                "index": 5,
+                "model_name": "אודיסיי",
+                "model_value": "10190"
+            },
+            {
+                "index": 6,
+                "model_name": "אינסייט",
+                "model_value": "10187"
+            },
+            {
+                "index": 7,
+                "model_name": "אקורד",
+                "model_value": "10181"
+            },
+            {
+                "index": 8,
+                "model_name": "ג'אז",
+                "model_value": "10188"
+            },
+            {
+                "index": 9,
+                "model_name": "לג'נד",
+                "model_value": "10189"
+            },
+            {
+                "index": 10,
+                "model_name": "סיוויק",
+                "model_value": "10182"
+            },
+            {
+                "index": 11,
+                "model_name": "סיוויק Type R",
+                "model_value": "13419"
+            },
+            {
+                "index": 12,
+                "model_name": "סיטי",
+                "model_value": "11069"
+            },
+            {
+                "index": 13,
+                "model_name": "פיילוט",
+                "model_value": "10191"
+            },
+            {
+                "index": 14,
+                "model_name": "פרלוד",
+                "model_value": "10192"
+            },
+            {
+                "index": 15,
+                "model_name": "קלריטי",
+                "model_value": "11070"
+            },
+            {
+                "index": 16,
+                "model_name": "שאטל",
+                "model_value": "10195"
+            }
+        ]
+    },
+    {
+        "index": 51,
+        "brand": "וויה",
+        "value": "322",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "דרים",
+                "model_value": "13302"
+            },
+            {
+                "index": 1,
+                "model_name": "פרי",
+                "model_value": "13078"
+            },
+            {
+                "index": 2,
+                "model_name": "קוראז",
+                "model_value": "13494"
+            }
+        ]
+    },
+    {
+        "index": 52,
+        "brand": "וולוו",
+        "value": "18",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "850",
+                "model_value": "10197"
+            },
+            {
+                "index": 1,
+                "model_name": "940",
+                "model_value": "10198"
+            },
+            {
+                "index": 2,
+                "model_name": "960",
+                "model_value": "10199"
+            },
+            {
+                "index": 3,
+                "model_name": "C30",
+                "model_value": "10200"
+            },
+            {
+                "index": 4,
+                "model_name": "C40",
+                "model_value": "11127"
+            },
+            {
+                "index": 5,
+                "model_name": "C70",
+                "model_value": "10201"
+            },
+            {
+                "index": 6,
+                "model_name": "EX30",
+                "model_value": "13182"
+            },
+            {
+                "index": 7,
+                "model_name": "S40",
+                "model_value": "10202"
+            },
+            {
+                "index": 8,
+                "model_name": "S60",
+                "model_value": "10203"
+            },
+            {
+                "index": 9,
+                "model_name": "S70",
+                "model_value": "10204"
+            },
+            {
+                "index": 10,
+                "model_name": "S80",
+                "model_value": "10205"
+            },
+            {
+                "index": 11,
+                "model_name": "S90",
+                "model_value": "10206"
+            },
+            {
+                "index": 12,
+                "model_name": "V40",
+                "model_value": "10207"
+            },
+            {
+                "index": 13,
+                "model_name": "V50",
+                "model_value": "10208"
+            },
+            {
+                "index": 14,
+                "model_name": "V60",
+                "model_value": "10209"
+            },
+            {
+                "index": 15,
+                "model_name": "V70",
+                "model_value": "10210"
+            },
+            {
+                "index": 16,
+                "model_name": "V90",
+                "model_value": "10211"
+            },
+            {
+                "index": 17,
+                "model_name": "XC40",
+                "model_value": "10212"
+            },
+            {
+                "index": 18,
+                "model_name": "XC60",
+                "model_value": "10213"
+            },
+            {
+                "index": 19,
+                "model_name": "XC70",
+                "model_value": "10214"
+            },
+            {
+                "index": 20,
+                "model_name": "XC90",
+                "model_value": "10215"
+            }
+        ]
+    },
+    {
+        "index": 53,
+        "brand": "ויי",
+        "value": "284",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "קופי 01",
+                "model_value": "13087"
+            },
+            {
+                "index": 1,
+                "model_name": "קופי 02",
+                "model_value": "13191"
+            }
+        ]
+    },
+    {
+        "index": 54,
+        "brand": "זיקר",
+        "value": "333",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "001",
+                "model_value": "13181"
+            },
+            {
+                "index": 1,
+                "model_name": "X",
+                "model_value": "13208"
+            }
+        ]
+    },
+    {
+        "index": 55,
+        "brand": "טאטא",
+        "value": "87",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "טלקוליין",
+                "model_value": "13040"
+            },
+            {
+                "index": 1,
+                "model_name": "סומו",
+                "model_value": "12117"
+            },
+            {
+                "index": 2,
+                "model_name": "סיירה",
+                "model_value": "12116"
+            },
+            {
+                "index": 3,
+                "model_name": "ספארי",
+                "model_value": "12115"
+            }
+        ]
+    },
+    {
+        "index": 56,
+        "brand": "טויוטה",
+        "value": "19",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "C-HR",
+                "model_value": "10225"
+            },
+            {
+                "index": 1,
+                "model_name": "FJ קרוזר",
+                "model_value": "10228"
+            },
+            {
+                "index": 2,
+                "model_name": "GT86",
+                "model_value": "10217"
+            },
+            {
+                "index": 3,
+                "model_name": "MR 2",
+                "model_value": "10234"
+            },
+            {
+                "index": 4,
+                "model_name": "RAV4",
+                "model_value": "10238"
+            },
+            {
+                "index": 5,
+                "model_name": "bZ4X",
+                "model_value": "12894"
+            },
+            {
+                "index": 6,
+                "model_name": "iQ",
+                "model_value": "10232"
+            },
+            {
+                "index": 7,
+                "model_name": "אוולון",
+                "model_value": "10219"
+            },
+            {
+                "index": 8,
+                "model_name": "אוונסיס",
+                "model_value": "10220"
+            },
+            {
+                "index": 9,
+                "model_name": "אוריס",
+                "model_value": "10218"
+            },
+            {
+                "index": 10,
+                "model_name": "אייגו",
+                "model_value": "10221"
+            },
+            {
+                "index": 11,
+                "model_name": "אייגו X",
+                "model_value": "12897"
+            },
+            {
+                "index": 12,
+                "model_name": "גראנד היילנדר",
+                "model_value": "13237"
+            },
+            {
+                "index": 13,
+                "model_name": "הייאס",
+                "model_value": "10229"
+            },
+            {
+                "index": 14,
+                "model_name": "היילנדר",
+                "model_value": "10230"
+            },
+            {
+                "index": 15,
+                "model_name": "היילקס",
+                "model_value": "10231"
+            },
+            {
+                "index": 16,
+                "model_name": "היילקס ויגו",
+                "model_value": "13373"
+            },
+            {
+                "index": 17,
+                "model_name": "ונזה",
+                "model_value": "10244"
+            },
+            {
+                "index": 18,
+                "model_name": "ורסו",
+                "model_value": "10245"
+            },
+            {
+                "index": 19,
+                "model_name": "ורסו-S",
+                "model_value": "10246"
+            },
+            {
+                "index": 20,
+                "model_name": "טאקומה",
+                "model_value": "10243"
+            },
+            {
+                "index": 21,
+                "model_name": "טונדרה",
+                "model_value": "11215"
+            },
+            {
+                "index": 22,
+                "model_name": "יאריס",
+                "model_value": "10247"
+            },
+            {
+                "index": 23,
+                "model_name": "יאריס GR",
+                "model_value": "13386"
+            },
+            {
+                "index": 24,
+                "model_name": "יאריס קרוס",
+                "model_value": "11228"
+            },
+            {
+                "index": 25,
+                "model_name": "לנד קרוזר",
+                "model_value": "10233"
+            },
+            {
+                "index": 26,
+                "model_name": "סופרה",
+                "model_value": "11212"
+            },
+            {
+                "index": 27,
+                "model_name": "סטארלט",
+                "model_value": "10242"
+            },
+            {
+                "index": 28,
+                "model_name": "סיינה",
+                "model_value": "10240"
+            },
+            {
+                "index": 29,
+                "model_name": "סליקה",
+                "model_value": "10224"
+            },
+            {
+                "index": 30,
+                "model_name": "סקויה",
+                "model_value": "10239"
+            },
+            {
+                "index": 31,
+                "model_name": "פור-ראנר",
+                "model_value": "10216"
+            },
+            {
+                "index": 32,
+                "model_name": "פרואייס",
+                "model_value": "13093"
+            },
+            {
+                "index": 33,
+                "model_name": "פרואייס סיטי",
+                "model_value": "10237"
+            },
+            {
+                "index": 34,
+                "model_name": "פריוויה",
+                "model_value": "10235"
+            },
+            {
+                "index": 35,
+                "model_name": "פריוס",
+                "model_value": "10236"
+            },
+            {
+                "index": 36,
+                "model_name": "פריוס פלוס",
+                "model_value": "13238"
+            },
+            {
+                "index": 37,
+                "model_name": "קאמרי",
+                "model_value": "10222"
+            },
+            {
+                "index": 38,
+                "model_name": "קורולה",
+                "model_value": "10226"
+            },
+            {
+                "index": 39,
+                "model_name": "קורולה ורסו",
+                "model_value": "10227"
+            },
+            {
+                "index": 40,
+                "model_name": "קורולה קרוס",
+                "model_value": "11150"
+            },
+            {
+                "index": 41,
+                "model_name": "קראון",
+                "model_value": "11157"
+            },
+            {
+                "index": 42,
+                "model_name": "קרינה",
+                "model_value": "10223"
+            }
+        ]
+    },
+    {
+        "index": 57,
+        "brand": "טסלה",
+        "value": "62",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "מודל 3",
+                "model_value": "10846"
+            },
+            {
+                "index": 1,
+                "model_name": "מודל S",
+                "model_value": "10847"
+            },
+            {
+                "index": 2,
+                "model_name": "מודל X",
+                "model_value": "10848"
+            },
+            {
+                "index": 3,
+                "model_name": "מודל Y",
+                "model_value": "11942"
+            },
+            {
+                "index": 4,
+                "model_name": "סייבטראק",
+                "model_value": "13295"
+            }
+        ]
+    },
+    {
+        "index": 58,
+        "brand": "יגואר",
+        "value": "20",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "E-Pace",
+                "model_value": "10248"
+            },
+            {
+                "index": 1,
+                "model_name": "F-Pace",
+                "model_value": "10249"
+            },
+            {
+                "index": 2,
+                "model_name": "F-type",
+                "model_value": "10250"
+            },
+            {
+                "index": 3,
+                "model_name": "I-Pace",
+                "model_value": "10252"
+            },
+            {
+                "index": 4,
+                "model_name": "S-type",
+                "model_value": "10253"
+            },
+            {
+                "index": 5,
+                "model_name": "X-type",
+                "model_value": "10258"
+            },
+            {
+                "index": 6,
+                "model_name": "XE",
+                "model_value": "10254"
+            },
+            {
+                "index": 7,
+                "model_name": "XF",
+                "model_value": "10255"
+            },
+            {
+                "index": 8,
+                "model_name": "XJ",
+                "model_value": "10256"
+            },
+            {
+                "index": 9,
+                "model_name": "XK",
+                "model_value": "10257"
+            }
+        ]
+    },
+    {
+        "index": 59,
+        "brand": "יודו",
+        "value": "357",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "יודו 3",
+                "model_value": "13469"
+            }
+        ]
+    },
+    {
+        "index": 60,
+        "brand": "יונדאי",
+        "value": "21",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אקסנט",
+                "model_value": "10275"
+            },
+            {
+                "index": 1,
+                "model_name": "H-1 / i800",
+                "model_value": "10268"
+            },
+            {
+                "index": 2,
+                "model_name": "H100",
+                "model_value": "10269"
+            },
+            {
+                "index": 3,
+                "model_name": "H350",
+                "model_value": "10271"
+            },
+            {
+                "index": 4,
+                "model_name": "I20 קרוס",
+                "model_value": "13435"
+            },
+            {
+                "index": 5,
+                "model_name": "I20N",
+                "model_value": "13137"
+            },
+            {
+                "index": 6,
+                "model_name": "I30N",
+                "model_value": "13138"
+            },
+            {
+                "index": 7,
+                "model_name": "I35",
+                "model_value": "13276"
+            },
+            {
+                "index": 8,
+                "model_name": "i10",
+                "model_value": "10272"
+            },
+            {
+                "index": 9,
+                "model_name": "i20",
+                "model_value": "10273"
+            },
+            {
+                "index": 10,
+                "model_name": "i30",
+                "model_value": "10276"
+            },
+            {
+                "index": 11,
+                "model_name": "i40",
+                "model_value": "10277"
+            },
+            {
+                "index": 12,
+                "model_name": "ix20",
+                "model_value": "10280"
+            },
+            {
+                "index": 13,
+                "model_name": "ix35",
+                "model_value": "10281"
+            },
+            {
+                "index": 14,
+                "model_name": "ix55",
+                "model_value": "10282"
+            },
+            {
+                "index": 15,
+                "model_name": "אטוס",
+                "model_value": "10260"
+            },
+            {
+                "index": 16,
+                "model_name": "איוניק",
+                "model_value": "10279"
+            },
+            {
+                "index": 17,
+                "model_name": "איוניק 5",
+                "model_value": "11239"
+            },
+            {
+                "index": 18,
+                "model_name": "איוניק 5 N",
+                "model_value": "13427"
+            },
+            {
+                "index": 19,
+                "model_name": "איוניק 6",
+                "model_value": "13099"
+            },
+            {
+                "index": 20,
+                "model_name": "אלנטרה",
+                "model_value": "10263"
+            },
+            {
+                "index": 21,
+                "model_name": "אקסנט i25",
+                "model_value": "10259"
+            },
+            {
+                "index": 22,
+                "model_name": "באיון",
+                "model_value": "11234"
+            },
+            {
+                "index": 23,
+                "model_name": "ג'נסיס",
+                "model_value": "10265"
+            },
+            {
+                "index": 24,
+                "model_name": "גאלופר",
+                "model_value": "10264"
+            },
+            {
+                "index": 25,
+                "model_name": "גטס",
+                "model_value": "10266"
+            },
+            {
+                "index": 26,
+                "model_name": "גרנדיור",
+                "model_value": "10267"
+            },
+            {
+                "index": 27,
+                "model_name": "ולוסטר",
+                "model_value": "10292"
+            },
+            {
+                "index": 28,
+                "model_name": "וניו",
+                "model_value": "10293"
+            },
+            {
+                "index": 29,
+                "model_name": "טאראקן",
+                "model_value": "10289"
+            },
+            {
+                "index": 30,
+                "model_name": "טוסון",
+                "model_value": "10291"
+            },
+            {
+                "index": 31,
+                "model_name": "טרג'ט",
+                "model_value": "10290"
+            },
+            {
+                "index": 32,
+                "model_name": "לנטרה",
+                "model_value": "10284"
+            },
+            {
+                "index": 33,
+                "model_name": "מטריקס",
+                "model_value": "10285"
+            },
+            {
+                "index": 34,
+                "model_name": "סונטה",
+                "model_value": "10288"
+            },
+            {
+                "index": 35,
+                "model_name": "סטאריה",
+                "model_value": "12925"
+            },
+            {
+                "index": 36,
+                "model_name": "סנטה פה",
+                "model_value": "10287"
+            },
+            {
+                "index": 37,
+                "model_name": "פליסדה",
+                "model_value": "10286"
+            },
+            {
+                "index": 38,
+                "model_name": "קונה",
+                "model_value": "10283"
+            },
+            {
+                "index": 39,
+                "model_name": "קופה",
+                "model_value": "10262"
+            }
+        ]
+    },
+    {
+        "index": 61,
+        "brand": "לאדה",
+        "value": "80",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "2108",
+                "model_value": "10851"
+            },
+            {
+                "index": 1,
+                "model_name": "2109",
+                "model_value": "10852"
+            },
+            {
+                "index": 2,
+                "model_name": "ניבה",
+                "model_value": "10853"
+            },
+            {
+                "index": 3,
+                "model_name": "סמרה",
+                "model_value": "10854"
+            }
+        ]
+    },
+    {
+        "index": 62,
+        "brand": "לוטוס",
+        "value": "22",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אמירה",
+                "model_value": "12956"
+            }
+        ]
+    },
+    {
+        "index": 63,
+        "brand": "לינק אנד קו",
+        "value": "321",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "01",
+                "model_value": "13077"
+            },
+            {
+                "index": 1,
+                "model_name": "02",
+                "model_value": "13347"
+            }
+        ]
+    },
+    {
+        "index": 64,
+        "brand": "לינקולן",
+        "value": "23",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "LS",
+                "model_value": "10294"
+            },
+            {
+                "index": 1,
+                "model_name": "MKC",
+                "model_value": "10296"
+            },
+            {
+                "index": 2,
+                "model_name": "MKS",
+                "model_value": "10297"
+            },
+            {
+                "index": 3,
+                "model_name": "MKT",
+                "model_value": "10298"
+            },
+            {
+                "index": 4,
+                "model_name": "MKZ",
+                "model_value": "10299"
+            },
+            {
+                "index": 5,
+                "model_name": "אביאטור",
+                "model_value": "11270"
+            },
+            {
+                "index": 6,
+                "model_name": "זפיר",
+                "model_value": "10302"
+            },
+            {
+                "index": 7,
+                "model_name": "טאון קאר",
+                "model_value": "10301"
+            },
+            {
+                "index": 8,
+                "model_name": "נביגטור",
+                "model_value": "10300"
+            }
+        ]
+    },
+    {
+        "index": 66,
+        "brand": "ליפמוטור",
+        "value": "320",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "C10",
+                "model_value": "13371"
+            },
+            {
+                "index": 1,
+                "model_name": "T03",
+                "model_value": "13076"
+            }
+        ]
+    },
+    {
+        "index": 67,
+        "brand": "למבורגיני",
+        "value": "63",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אורוס",
+                "model_value": "11962"
+            },
+            {
+                "index": 1,
+                "model_name": "הורקאן",
+                "model_value": "11953"
+            },
+            {
+                "index": 2,
+                "model_name": "רוולטו",
+                "model_value": "13108"
+            }
+        ]
+    },
+    {
+        "index": 68,
+        "brand": "לנד רובר",
+        "value": "24",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "דיסקברי",
+                "model_value": "10304"
+            },
+            {
+                "index": 1,
+                "model_name": "דיסקברי ספורט",
+                "model_value": "10305"
+            },
+            {
+                "index": 2,
+                "model_name": "דיפנדר",
+                "model_value": "10303"
+            },
+            {
+                "index": 3,
+                "model_name": "פרילנדר",
+                "model_value": "10306"
+            },
+            {
+                "index": 4,
+                "model_name": "ריינג' רובר",
+                "model_value": "10307"
+            },
+            {
+                "index": 5,
+                "model_name": "ריינג' רובר איווק",
+                "model_value": "10308"
+            },
+            {
+                "index": 6,
+                "model_name": "ריינג' רובר ולאר",
+                "model_value": "10310"
+            },
+            {
+                "index": 7,
+                "model_name": "ריינג' רובר ספורט",
+                "model_value": "10309"
+            }
+        ]
+    },
+    {
+        "index": 69,
+        "brand": "לנצ'יה",
+        "value": "25",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אפסילון",
+                "model_value": "10316"
+            },
+            {
+                "index": 1,
+                "model_name": "דדרה",
+                "model_value": "10312"
+            },
+            {
+                "index": 2,
+                "model_name": "דלתא",
+                "model_value": "10313"
+            },
+            {
+                "index": 3,
+                "model_name": "קאפה",
+                "model_value": "10314"
+            }
+        ]
+    },
+    {
+        "index": 70,
+        "brand": "לקסוס",
+        "value": "26",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "LBX",
+                "model_value": "13338"
+            },
+            {
+                "index": 1,
+                "model_name": "CT",
+                "model_value": "10317"
+            },
+            {
+                "index": 2,
+                "model_name": "ES",
+                "model_value": "10318"
+            },
+            {
+                "index": 3,
+                "model_name": "GS",
+                "model_value": "10319"
+            },
+            {
+                "index": 4,
+                "model_name": "GX",
+                "model_value": "10320"
+            },
+            {
+                "index": 5,
+                "model_name": "IS",
+                "model_value": "10321"
+            },
+            {
+                "index": 6,
+                "model_name": "LC",
+                "model_value": "10322"
+            },
+            {
+                "index": 7,
+                "model_name": "LM350H",
+                "model_value": "13246"
+            },
+            {
+                "index": 8,
+                "model_name": "LS",
+                "model_value": "10323"
+            },
+            {
+                "index": 9,
+                "model_name": "LX",
+                "model_value": "10324"
+            },
+            {
+                "index": 10,
+                "model_name": "NX",
+                "model_value": "10325"
+            },
+            {
+                "index": 11,
+                "model_name": "RC",
+                "model_value": "10326"
+            },
+            {
+                "index": 12,
+                "model_name": "RX",
+                "model_value": "10327"
+            },
+            {
+                "index": 13,
+                "model_name": "RZ",
+                "model_value": "13022"
+            },
+            {
+                "index": 14,
+                "model_name": "SC",
+                "model_value": "10328"
+            },
+            {
+                "index": 15,
+                "model_name": "TX",
+                "model_value": "13279"
+            },
+            {
+                "index": 16,
+                "model_name": "UX",
+                "model_value": "10329"
+            }
+        ]
+    },
+    {
+        "index": 71,
+        "brand": "מאזדה",
+        "value": "27",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "121",
+                "model_value": "10330"
+            },
+            {
+                "index": 1,
+                "model_name": "2",
+                "model_value": "10331"
+            },
+            {
+                "index": 2,
+                "model_name": "3",
+                "model_value": "10332"
+            },
+            {
+                "index": 3,
+                "model_name": "323",
+                "model_value": "10333"
+            },
+            {
+                "index": 4,
+                "model_name": "5",
+                "model_value": "10334"
+            },
+            {
+                "index": 5,
+                "model_name": "6",
+                "model_value": "10335"
+            },
+            {
+                "index": 6,
+                "model_name": "626",
+                "model_value": "10336"
+            },
+            {
+                "index": 7,
+                "model_name": "B-series",
+                "model_value": "10338"
+            },
+            {
+                "index": 8,
+                "model_name": "BT-50",
+                "model_value": "10339"
+            },
+            {
+                "index": 9,
+                "model_name": "CX-3",
+                "model_value": "10340"
+            },
+            {
+                "index": 10,
+                "model_name": "CX-30",
+                "model_value": "10341"
+            },
+            {
+                "index": 11,
+                "model_name": "CX-5",
+                "model_value": "10342"
+            },
+            {
+                "index": 12,
+                "model_name": "CX-50",
+                "model_value": "12966"
+            },
+            {
+                "index": 13,
+                "model_name": "CX-60",
+                "model_value": "12986"
+            },
+            {
+                "index": 14,
+                "model_name": "CX-9",
+                "model_value": "11311"
+            },
+            {
+                "index": 15,
+                "model_name": "CX-90",
+                "model_value": "13104"
+            },
+            {
+                "index": 16,
+                "model_name": "MPV",
+                "model_value": "10345"
+            },
+            {
+                "index": 17,
+                "model_name": "MX-3",
+                "model_value": "10346"
+            },
+            {
+                "index": 18,
+                "model_name": "MX-30",
+                "model_value": "11322"
+            },
+            {
+                "index": 19,
+                "model_name": "MX-5",
+                "model_value": "10347"
+            },
+            {
+                "index": 20,
+                "model_name": "דמיו",
+                "model_value": "10343"
+            },
+            {
+                "index": 21,
+                "model_name": "טריביוט",
+                "model_value": "10350"
+            },
+            {
+                "index": 22,
+                "model_name": "פרמסי",
+                "model_value": "10348"
+            },
+            {
+                "index": 23,
+                "model_name": "קסדוס 6",
+                "model_value": "10351"
+            },
+            {
+                "index": 24,
+                "model_name": "קסדוס 9",
+                "model_value": "10352"
+            }
+        ]
+    },
+    {
+        "index": 72,
+        "brand": "מאן",
+        "value": "86",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "TGE",
+                "model_value": "10860"
+            }
+        ]
+    },
+    {
+        "index": 74,
+        "brand": "מזראטי",
+        "value": "28",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "MC20",
+                "model_value": "11352"
+            },
+            {
+                "index": 1,
+                "model_name": "גיבלי",
+                "model_value": "10353"
+            },
+            {
+                "index": 2,
+                "model_name": "גראן-טוריסמו",
+                "model_value": "10355"
+            },
+            {
+                "index": 3,
+                "model_name": "גראן-קבריו",
+                "model_value": "10354"
+            },
+            {
+                "index": 4,
+                "model_name": "גרקאלה",
+                "model_value": "12974"
+            },
+            {
+                "index": 5,
+                "model_name": "לבנטה",
+                "model_value": "10356"
+            },
+            {
+                "index": 6,
+                "model_name": "קוואטרופורטה",
+                "model_value": "10357"
+            }
+        ]
+    },
+    {
+        "index": 75,
+        "brand": "מיני",
+        "value": "29",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אייסמן",
+                "model_value": "13379"
+            },
+            {
+                "index": 1,
+                "model_name": "פייסמן",
+                "model_value": "10363"
+            },
+            {
+                "index": 2,
+                "model_name": "קאנטרימן",
+                "model_value": "10361"
+            },
+            {
+                "index": 3,
+                "model_name": "קופר",
+                "model_value": "10360"
+            },
+            {
+                "index": 4,
+                "model_name": "קופר SE (חשמלית)",
+                "model_value": "10362"
+            },
+            {
+                "index": 5,
+                "model_name": "קופר קבריולט",
+                "model_value": "10359"
+            },
+            {
+                "index": 6,
+                "model_name": "קלאבמן",
+                "model_value": "10358"
+            },
+            {
+                "index": 7,
+                "model_name": "רודסטר",
+                "model_value": "10364"
+            }
+        ]
+    },
+    {
+        "index": 76,
+        "brand": "מיצובישי",
+        "value": "30",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "3000 GT",
+                "model_value": "10365"
+            },
+            {
+                "index": 1,
+                "model_name": "ASX",
+                "model_value": "10366"
+            },
+            {
+                "index": 2,
+                "model_name": "L300",
+                "model_value": "10378"
+            },
+            {
+                "index": 3,
+                "model_name": "L400",
+                "model_value": "10371"
+            },
+            {
+                "index": 4,
+                "model_name": "i-MiEV",
+                "model_value": "10376"
+            },
+            {
+                "index": 5,
+                "model_name": "אאוטלנדר",
+                "model_value": "10381"
+            },
+            {
+                "index": 6,
+                "model_name": "אטראז'",
+                "model_value": "10367"
+            },
+            {
+                "index": 7,
+                "model_name": "אקליפס",
+                "model_value": "10372"
+            },
+            {
+                "index": 8,
+                "model_name": "אקליפס קרוס",
+                "model_value": "10373"
+            },
+            {
+                "index": 9,
+                "model_name": "גאלאנט",
+                "model_value": "10374"
+            },
+            {
+                "index": 10,
+                "model_name": "גרנדיס",
+                "model_value": "10375"
+            },
+            {
+                "index": 11,
+                "model_name": "טרייטון / L200",
+                "model_value": "10377"
+            },
+            {
+                "index": 12,
+                "model_name": "כריזמה",
+                "model_value": "10369"
+            },
+            {
+                "index": 13,
+                "model_name": "לנסר",
+                "model_value": "10379"
+            },
+            {
+                "index": 14,
+                "model_name": "לנסר איוולושן",
+                "model_value": "10380"
+            },
+            {
+                "index": 15,
+                "model_name": "מונטרו ספורט",
+                "model_value": "11382"
+            },
+            {
+                "index": 16,
+                "model_name": "סופר לנסר",
+                "model_value": "10387"
+            },
+            {
+                "index": 17,
+                "model_name": "ספייס גיר",
+                "model_value": "11391"
+            },
+            {
+                "index": 18,
+                "model_name": "ספייס וואגן",
+                "model_value": "10386"
+            },
+            {
+                "index": 19,
+                "model_name": "ספייס סטאר",
+                "model_value": "10385"
+            },
+            {
+                "index": 20,
+                "model_name": "ספייס ראנר",
+                "model_value": "10384"
+            },
+            {
+                "index": 21,
+                "model_name": "פג'רו",
+                "model_value": "10382"
+            },
+            {
+                "index": 22,
+                "model_name": "קאנטר",
+                "model_value": "10368"
+            },
+            {
+                "index": 23,
+                "model_name": "קולט",
+                "model_value": "10370"
+            }
+        ]
+    },
+    {
+        "index": 77,
+        "brand": "מקלארן",
+        "value": "73",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "720S",
+                "model_value": "12012"
+            }
+        ]
+    },
+    {
+        "index": 78,
+        "brand": "מקסוס",
+        "value": "89",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "V80",
+                "model_value": "10861"
+            },
+            {
+                "index": 1,
+                "model_name": "אי דליברי 7",
+                "model_value": "13481"
+            },
+            {
+                "index": 2,
+                "model_name": "אי דליברי 9",
+                "model_value": "13488"
+            },
+            {
+                "index": 3,
+                "model_name": "אי-דליוור 3",
+                "model_value": "13049"
+            },
+            {
+                "index": 4,
+                "model_name": "אי-דליוור 5",
+                "model_value": "13473"
+            },
+            {
+                "index": 5,
+                "model_name": "איוניק 5",
+                "model_value": "13048"
+            },
+            {
+                "index": 6,
+                "model_name": "איוניק 6",
+                "model_value": "13047"
+            },
+            {
+                "index": 7,
+                "model_name": "מיפה 7",
+                "model_value": "13468"
+            },
+            {
+                "index": 8,
+                "model_name": "מיפה 9",
+                "model_value": "13165"
+            }
+        ]
+    },
+    {
+        "index": 79,
+        "brand": "מרצדס-בנץ",
+        "value": "31",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "A-class",
+                "model_value": "10389"
+            },
+            {
+                "index": 1,
+                "model_name": "AMG GT",
+                "model_value": "10390"
+            },
+            {
+                "index": 2,
+                "model_name": "AMG GT 4 דל' קופה",
+                "model_value": "10391"
+            },
+            {
+                "index": 3,
+                "model_name": "B-class",
+                "model_value": "10393"
+            },
+            {
+                "index": 4,
+                "model_name": "C-class",
+                "model_value": "10394"
+            },
+            {
+                "index": 5,
+                "model_name": "CL",
+                "model_value": "10396"
+            },
+            {
+                "index": 6,
+                "model_name": "CLA",
+                "model_value": "10397"
+            },
+            {
+                "index": 7,
+                "model_name": "CLC",
+                "model_value": "10398"
+            },
+            {
+                "index": 8,
+                "model_name": "CLE",
+                "model_value": "13217"
+            },
+            {
+                "index": 9,
+                "model_name": "CLK",
+                "model_value": "10399"
+            },
+            {
+                "index": 10,
+                "model_name": "CLS",
+                "model_value": "10400"
+            },
+            {
+                "index": 11,
+                "model_name": "E-class",
+                "model_value": "10401"
+            },
+            {
+                "index": 12,
+                "model_name": "EQA",
+                "model_value": "11412"
+            },
+            {
+                "index": 13,
+                "model_name": "EQB",
+                "model_value": "11413"
+            },
+            {
+                "index": 14,
+                "model_name": "EQC",
+                "model_value": "10402"
+            },
+            {
+                "index": 15,
+                "model_name": "EQE",
+                "model_value": "12931"
+            },
+            {
+                "index": 16,
+                "model_name": "EQE SUV",
+                "model_value": "13333"
+            },
+            {
+                "index": 17,
+                "model_name": "EQS",
+                "model_value": "11414"
+            },
+            {
+                "index": 18,
+                "model_name": "EQS SUV",
+                "model_value": "12981"
+            },
+            {
+                "index": 19,
+                "model_name": "EQV",
+                "model_value": "11415"
+            },
+            {
+                "index": 20,
+                "model_name": "G-class",
+                "model_value": "10403"
+            },
+            {
+                "index": 21,
+                "model_name": "GL",
+                "model_value": "10404"
+            },
+            {
+                "index": 22,
+                "model_name": "GLA",
+                "model_value": "10405"
+            },
+            {
+                "index": 23,
+                "model_name": "GLB",
+                "model_value": "10406"
+            },
+            {
+                "index": 24,
+                "model_name": "GLC",
+                "model_value": "10407"
+            },
+            {
+                "index": 25,
+                "model_name": "GLC קופה",
+                "model_value": "13436"
+            },
+            {
+                "index": 26,
+                "model_name": "GLE",
+                "model_value": "10408"
+            },
+            {
+                "index": 27,
+                "model_name": "GLE Coupe",
+                "model_value": "13355"
+            },
+            {
+                "index": 28,
+                "model_name": "GLK",
+                "model_value": "10409"
+            },
+            {
+                "index": 29,
+                "model_name": "GLS",
+                "model_value": "10410"
+            },
+            {
+                "index": 30,
+                "model_name": "ML",
+                "model_value": "10412"
+            },
+            {
+                "index": 31,
+                "model_name": "R-class",
+                "model_value": "10413"
+            },
+            {
+                "index": 32,
+                "model_name": "S-class",
+                "model_value": "10414"
+            },
+            {
+                "index": 33,
+                "model_name": "SL",
+                "model_value": "10415"
+            },
+            {
+                "index": 34,
+                "model_name": "SLC",
+                "model_value": "10416"
+            },
+            {
+                "index": 35,
+                "model_name": "SLK",
+                "model_value": "10417"
+            },
+            {
+                "index": 36,
+                "model_name": "SLS AMG",
+                "model_value": "10418"
+            },
+            {
+                "index": 37,
+                "model_name": "V-class",
+                "model_value": "10421"
+            },
+            {
+                "index": 38,
+                "model_name": "X-class",
+                "model_value": "10424"
+            },
+            {
+                "index": 39,
+                "model_name": "ואריו",
+                "model_value": "10420"
+            },
+            {
+                "index": 40,
+                "model_name": "ויאנו",
+                "model_value": "10422"
+            },
+            {
+                "index": 41,
+                "model_name": "ויטו",
+                "model_value": "10423"
+            },
+            {
+                "index": 42,
+                "model_name": "מטריס",
+                "model_value": "10411"
+            },
+            {
+                "index": 43,
+                "model_name": "סיטאן",
+                "model_value": "10395"
+            },
+            {
+                "index": 44,
+                "model_name": "ספרינטר",
+                "model_value": "10419"
+            }
+        ]
+    },
+    {
+        "index": 81,
+        "brand": "ניאו",
+        "value": "289",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "EL6",
+                "model_value": "13358"
+            },
+            {
+                "index": 1,
+                "model_name": "EL7",
+                "model_value": "13109"
+            },
+            {
+                "index": 2,
+                "model_name": "ES8",
+                "model_value": "12839"
+            },
+            {
+                "index": 3,
+                "model_name": "ET5",
+                "model_value": "12987"
+            },
+            {
+                "index": 4,
+                "model_name": "ET7",
+                "model_value": "12840"
+            }
+        ]
+    },
+    {
+        "index": 82,
+        "brand": "ניסאן",
+        "value": "32",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "200 SX",
+                "model_value": "10425"
+            },
+            {
+                "index": 1,
+                "model_name": "370Z",
+                "model_value": "10427"
+            },
+            {
+                "index": 2,
+                "model_name": "GT-R",
+                "model_value": "10432"
+            },
+            {
+                "index": 3,
+                "model_name": "NV200",
+                "model_value": "10443"
+            },
+            {
+                "index": 4,
+                "model_name": "אלטימה",
+                "model_value": "10429"
+            },
+            {
+                "index": 5,
+                "model_name": "אלמרה",
+                "model_value": "10428"
+            },
+            {
+                "index": 6,
+                "model_name": "אקס טרייל",
+                "model_value": "10457"
+            },
+            {
+                "index": 7,
+                "model_name": "אקסטרה",
+                "model_value": "11485"
+            },
+            {
+                "index": 8,
+                "model_name": "אריה",
+                "model_value": "11435"
+            },
+            {
+                "index": 9,
+                "model_name": "ארמדה",
+                "model_value": "10430"
+            },
+            {
+                "index": 10,
+                "model_name": "ג'וק",
+                "model_value": "10433"
+            },
+            {
+                "index": 11,
+                "model_name": "ווינר",
+                "model_value": "10446"
+            },
+            {
+                "index": 12,
+                "model_name": "טידה",
+                "model_value": "10455"
+            },
+            {
+                "index": 13,
+                "model_name": "טראנו",
+                "model_value": "10454"
+            },
+            {
+                "index": 14,
+                "model_name": "לארגו",
+                "model_value": "10435"
+            },
+            {
+                "index": 15,
+                "model_name": "ליף",
+                "model_value": "10436"
+            },
+            {
+                "index": 16,
+                "model_name": "מוראנו",
+                "model_value": "10439"
+            },
+            {
+                "index": 17,
+                "model_name": "מיקרה",
+                "model_value": "10438"
+            },
+            {
+                "index": 18,
+                "model_name": "מקסימה",
+                "model_value": "10437"
+            },
+            {
+                "index": 19,
+                "model_name": "נבארה",
+                "model_value": "10440"
+            },
+            {
+                "index": 20,
+                "model_name": "נוט",
+                "model_value": "10441"
+            },
+            {
+                "index": 21,
+                "model_name": "סנטרה",
+                "model_value": "10451"
+            },
+            {
+                "index": 22,
+                "model_name": "סרנה",
+                "model_value": "10452"
+            },
+            {
+                "index": 23,
+                "model_name": "פאת'פיינדר",
+                "model_value": "10444"
+            },
+            {
+                "index": 24,
+                "model_name": "פולסר",
+                "model_value": "10448"
+            },
+            {
+                "index": 25,
+                "model_name": "פטרול",
+                "model_value": "10445"
+            },
+            {
+                "index": 26,
+                "model_name": "פרימרה",
+                "model_value": "10447"
+            },
+            {
+                "index": 27,
+                "model_name": "קבסטאר",
+                "model_value": "10431"
+            },
+            {
+                "index": 28,
+                "model_name": "קשקאי",
+                "model_value": "10449"
+            }
+        ]
+    },
+    {
+        "index": 83,
+        "brand": "ננג'ינג",
+        "value": "78",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "סיטי ספיריט",
+                "model_value": "10850"
+            }
+        ]
+    },
+    {
+        "index": 84,
+        "brand": "סאאב",
+        "value": "33",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "9-3",
+                "model_value": "10460"
+            },
+            {
+                "index": 1,
+                "model_name": "9-5",
+                "model_value": "10461"
+            },
+            {
+                "index": 2,
+                "model_name": "900",
+                "model_value": "10458"
+            },
+            {
+                "index": 3,
+                "model_name": "9000",
+                "model_value": "10459"
+            }
+        ]
+    },
+    {
+        "index": 85,
+        "brand": "סאנגיונג",
+        "value": "34",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אקטיון",
+                "model_value": "10462"
+            },
+            {
+                "index": 1,
+                "model_name": "טיבולי",
+                "model_value": "10469"
+            },
+            {
+                "index": 2,
+                "model_name": "מוסו",
+                "model_value": "10466"
+            },
+            {
+                "index": 3,
+                "model_name": "צ'רמן",
+                "model_value": "10463"
+            },
+            {
+                "index": 4,
+                "model_name": "קורנדו",
+                "model_value": "10464"
+            },
+            {
+                "index": 5,
+                "model_name": "קיירון",
+                "model_value": "10465"
+            },
+            {
+                "index": 6,
+                "model_name": "רודיוס",
+                "model_value": "10468"
+            },
+            {
+                "index": 7,
+                "model_name": "רקסטון",
+                "model_value": "10467"
+            }
+        ]
+    },
+    {
+        "index": 86,
+        "brand": "סאנשיין",
+        "value": "56",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "M2",
+                "model_value": "10818"
+            }
+        ]
+    },
+    {
+        "index": 87,
+        "brand": "סובארו",
+        "value": "35",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "B4/לגאסי",
+                "model_value": "10471"
+            },
+            {
+                "index": 1,
+                "model_name": "BRZ",
+                "model_value": "10472"
+            },
+            {
+                "index": 2,
+                "model_name": "WRX",
+                "model_value": "10484"
+            },
+            {
+                "index": 3,
+                "model_name": "XV",
+                "model_value": "10485"
+            },
+            {
+                "index": 4,
+                "model_name": "אאוטבק",
+                "model_value": "10481"
+            },
+            {
+                "index": 5,
+                "model_name": "אבולטיס/אסנט",
+                "model_value": "10475"
+            },
+            {
+                "index": 6,
+                "model_name": "אימפרזה",
+                "model_value": "10477"
+            },
+            {
+                "index": 7,
+                "model_name": "טנדר (בראט)",
+                "model_value": "13357"
+            },
+            {
+                "index": 8,
+                "model_name": "טריבקה",
+                "model_value": "10483"
+            },
+            {
+                "index": 9,
+                "model_name": "לאונה",
+                "model_value": "10479"
+            },
+            {
+                "index": 10,
+                "model_name": "לבורג",
+                "model_value": "10480"
+            },
+            {
+                "index": 11,
+                "model_name": "לגאסי",
+                "model_value": "10478"
+            },
+            {
+                "index": 12,
+                "model_name": "סולטרה",
+                "model_value": "12899"
+            },
+            {
+                "index": 13,
+                "model_name": "פורסטר",
+                "model_value": "10476"
+            },
+            {
+                "index": 14,
+                "model_name": "קרוסטרק",
+                "model_value": "11500"
+            }
+        ]
+    },
+    {
+        "index": 88,
+        "brand": "סוזוקי",
+        "value": "36",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "S-Cross",
+                "model_value": "13057"
+            },
+            {
+                "index": 1,
+                "model_name": "SX4",
+                "model_value": "10498"
+            },
+            {
+                "index": 2,
+                "model_name": "XL7",
+                "model_value": "10501"
+            },
+            {
+                "index": 3,
+                "model_name": "איגניס",
+                "model_value": "10492"
+            },
+            {
+                "index": 4,
+                "model_name": "אלטו",
+                "model_value": "10486"
+            },
+            {
+                "index": 5,
+                "model_name": "בלנו",
+                "model_value": "10487"
+            },
+            {
+                "index": 6,
+                "model_name": "ג'ימני",
+                "model_value": "10493"
+            },
+            {
+                "index": 7,
+                "model_name": "גרנד ויטרה",
+                "model_value": "10491"
+            },
+            {
+                "index": 8,
+                "model_name": "וואגון R+",
+                "model_value": "10500"
+            },
+            {
+                "index": 9,
+                "model_name": "ויטרה",
+                "model_value": "10499"
+            },
+            {
+                "index": 10,
+                "model_name": "ליאנה",
+                "model_value": "10494"
+            },
+            {
+                "index": 11,
+                "model_name": "סוויפט",
+                "model_value": "10497"
+            },
+            {
+                "index": 12,
+                "model_name": "סלריו",
+                "model_value": "10489"
+            },
+            {
+                "index": 13,
+                "model_name": "סמוראי",
+                "model_value": "10495"
+            },
+            {
+                "index": 14,
+                "model_name": "ספלאש",
+                "model_value": "10496"
+            },
+            {
+                "index": 15,
+                "model_name": "קארי",
+                "model_value": "10488"
+            },
+            {
+                "index": 16,
+                "model_name": "קרוסאובר",
+                "model_value": "10490"
+            }
+        ]
+    },
+    {
+        "index": 89,
+        "brand": "סיאט",
+        "value": "37",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "Mii",
+                "model_value": "10510"
+            },
+            {
+                "index": 1,
+                "model_name": "אטקה",
+                "model_value": "10505"
+            },
+            {
+                "index": 2,
+                "model_name": "איביזה",
+                "model_value": "10507"
+            },
+            {
+                "index": 3,
+                "model_name": "אינקה",
+                "model_value": "10508"
+            },
+            {
+                "index": 4,
+                "model_name": "אלהמברה",
+                "model_value": "10502"
+            },
+            {
+                "index": 5,
+                "model_name": "אלתיאה",
+                "model_value": "10503"
+            },
+            {
+                "index": 6,
+                "model_name": "ארונה",
+                "model_value": "10504"
+            },
+            {
+                "index": 7,
+                "model_name": "טולדו",
+                "model_value": "10511"
+            },
+            {
+                "index": 8,
+                "model_name": "טראקו",
+                "model_value": "11544"
+            },
+            {
+                "index": 9,
+                "model_name": "לאון",
+                "model_value": "10509"
+            },
+            {
+                "index": 10,
+                "model_name": "קורדובה",
+                "model_value": "10506"
+            }
+        ]
+    },
+    {
+        "index": 90,
+        "brand": "סיטרואן",
+        "value": "38",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "AX",
+                "model_value": "10512"
+            },
+            {
+                "index": 1,
+                "model_name": "C אליזה",
+                "model_value": "10525"
+            },
+            {
+                "index": 2,
+                "model_name": "C קרוסר",
+                "model_value": "10524"
+            },
+            {
+                "index": 3,
+                "model_name": "C-זירו",
+                "model_value": "10526"
+            },
+            {
+                "index": 4,
+                "model_name": "C1",
+                "model_value": "10514"
+            },
+            {
+                "index": 5,
+                "model_name": "C15",
+                "model_value": "10515"
+            },
+            {
+                "index": 6,
+                "model_name": "C2",
+                "model_value": "10516"
+            },
+            {
+                "index": 7,
+                "model_name": "C3",
+                "model_value": "10517"
+            },
+            {
+                "index": 8,
+                "model_name": "C3 איירקרוס",
+                "model_value": "13432"
+            },
+            {
+                "index": 9,
+                "model_name": "C4",
+                "model_value": "10518"
+            },
+            {
+                "index": 10,
+                "model_name": "C4x",
+                "model_value": "13134"
+            },
+            {
+                "index": 11,
+                "model_name": "C5",
+                "model_value": "10521"
+            },
+            {
+                "index": 12,
+                "model_name": "C5 איירקרוס",
+                "model_value": "11551"
+            },
+            {
+                "index": 13,
+                "model_name": "C6",
+                "model_value": "10522"
+            },
+            {
+                "index": 14,
+                "model_name": "C8",
+                "model_value": "10523"
+            },
+            {
+                "index": 15,
+                "model_name": "DS3",
+                "model_value": "10527"
+            },
+            {
+                "index": 16,
+                "model_name": "DS4",
+                "model_value": "10528"
+            },
+            {
+                "index": 17,
+                "model_name": "DS5",
+                "model_value": "10529"
+            },
+            {
+                "index": 18,
+                "model_name": "XM",
+                "model_value": "10534"
+            },
+            {
+                "index": 19,
+                "model_name": "ZX",
+                "model_value": "10536"
+            },
+            {
+                "index": 20,
+                "model_name": "e-C4",
+                "model_value": "13105"
+            },
+            {
+                "index": 21,
+                "model_name": "e-C4 X",
+                "model_value": "13106"
+            },
+            {
+                "index": 22,
+                "model_name": "ברלינגו",
+                "model_value": "10513"
+            },
+            {
+                "index": 23,
+                "model_name": "ג'אמפי",
+                "model_value": "10530"
+            },
+            {
+                "index": 24,
+                "model_name": "סקסו",
+                "model_value": "10531"
+            },
+            {
+                "index": 25,
+                "model_name": "קסנטיה",
+                "model_value": "10533"
+            },
+            {
+                "index": 26,
+                "model_name": "קסרה",
+                "model_value": "10535"
+            }
+        ]
+    },
+    {
+        "index": 91,
+        "brand": "סמארט",
+        "value": "39",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "#1",
+                "model_value": "12934"
+            },
+            {
+                "index": 1,
+                "model_name": "#3",
+                "model_value": "13244"
+            },
+            {
+                "index": 2,
+                "model_name": "EQ פורטו",
+                "model_value": "10537"
+            },
+            {
+                "index": 3,
+                "model_name": "פורטו",
+                "model_value": "10539"
+            },
+            {
+                "index": 4,
+                "model_name": "פורפור",
+                "model_value": "10538"
+            }
+        ]
+    },
+    {
+        "index": 92,
+        "brand": "סנטרו",
+        "value": "97",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "לוגיסטאר 100",
+                "model_value": "13157"
+            },
+            {
+                "index": 1,
+                "model_name": "לוגיסטאר 200",
+                "model_value": "13195"
+            },
+            {
+                "index": 2,
+                "model_name": "מטרו",
+                "model_value": "10869"
+            }
+        ]
+    },
+    {
+        "index": 93,
+        "brand": "סקודה",
+        "value": "40",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אוקטביה",
+                "model_value": "10547"
+            },
+            {
+                "index": 1,
+                "model_name": "אניאק iV",
+                "model_value": "11568"
+            },
+            {
+                "index": 2,
+                "model_name": "ייטי",
+                "model_value": "10552"
+            },
+            {
+                "index": 3,
+                "model_name": "סופרב",
+                "model_value": "10551"
+            },
+            {
+                "index": 4,
+                "model_name": "סיטיגו",
+                "model_value": "10540"
+            },
+            {
+                "index": 5,
+                "model_name": "סקאלה",
+                "model_value": "10550"
+            },
+            {
+                "index": 6,
+                "model_name": "פאביה",
+                "model_value": "10541"
+            },
+            {
+                "index": 7,
+                "model_name": "פליסיה",
+                "model_value": "10543"
+            },
+            {
+                "index": 8,
+                "model_name": "קאמיק",
+                "model_value": "10544"
+            },
+            {
+                "index": 9,
+                "model_name": "קארוק",
+                "model_value": "10545"
+            },
+            {
+                "index": 10,
+                "model_name": "קודיאק",
+                "model_value": "10546"
+            },
+            {
+                "index": 11,
+                "model_name": "ראפיד",
+                "model_value": "10548"
+            },
+            {
+                "index": 12,
+                "model_name": "רומסטר",
+                "model_value": "10549"
+            }
+        ]
+    },
+    {
+        "index": 94,
+        "brand": "סקייוול",
+        "value": "300",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "ET5",
+                "model_value": "13073"
+            }
+        ]
+    },
+    {
+        "index": 95,
+        "brand": "סרס",
+        "value": "287",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "5",
+                "model_value": "13127"
+            },
+            {
+                "index": 1,
+                "model_name": "EV-3",
+                "model_value": "13070"
+            }
+        ]
+    },
+    {
+        "index": 97,
+        "brand": "פוטון",
+        "value": "352",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "eTunland",
+                "model_value": "13364"
+            },
+            {
+                "index": 1,
+                "model_name": "ויו",
+                "model_value": "13365"
+            }
+        ]
+    },
+    {
+        "index": 98,
+        "brand": "פולסטאר",
+        "value": "231",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "2",
+                "model_value": "12610"
+            }
+        ]
+    },
+    {
+        "index": 99,
+        "brand": "פולקסווגן",
+        "value": "41",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "ID.3",
+                "model_value": "11578"
+            },
+            {
+                "index": 1,
+                "model_name": "ID.4",
+                "model_value": "11579"
+            },
+            {
+                "index": 2,
+                "model_name": "ID.5",
+                "model_value": "12928"
+            },
+            {
+                "index": 3,
+                "model_name": "ID.6",
+                "model_value": "11580"
+            },
+            {
+                "index": 4,
+                "model_name": "ID.7",
+                "model_value": "13261"
+            },
+            {
+                "index": 5,
+                "model_name": "ID.Buzz",
+                "model_value": "11581"
+            },
+            {
+                "index": 6,
+                "model_name": "LT",
+                "model_value": "10565"
+            },
+            {
+                "index": 7,
+                "model_name": "LT 35",
+                "model_value": "10566"
+            },
+            {
+                "index": 8,
+                "model_name": "T-קרוס",
+                "model_value": "10573"
+            },
+            {
+                "index": 9,
+                "model_name": "T-רוק",
+                "model_value": "10577"
+            },
+            {
+                "index": 10,
+                "model_name": "אטלס",
+                "model_value": "10555"
+            },
+            {
+                "index": 11,
+                "model_name": "איוס",
+                "model_value": "10561"
+            },
+            {
+                "index": 12,
+                "model_name": "אמארוק",
+                "model_value": "10553"
+            },
+            {
+                "index": 13,
+                "model_name": "אפ",
+                "model_value": "10578"
+            },
+            {
+                "index": 14,
+                "model_name": "ארטאון",
+                "model_value": "10554"
+            },
+            {
+                "index": 15,
+                "model_name": "בורה",
+                "model_value": "10557"
+            },
+            {
+                "index": 16,
+                "model_name": "ג'טה",
+                "model_value": "10564"
+            },
+            {
+                "index": 17,
+                "model_name": "גולף",
+                "model_value": "10562"
+            },
+            {
+                "index": 18,
+                "model_name": "ונטו",
+                "model_value": "10579"
+            },
+            {
+                "index": 19,
+                "model_name": "חיפושית",
+                "model_value": "10556"
+            },
+            {
+                "index": 20,
+                "model_name": "טאיגו",
+                "model_value": "12973"
+            },
+            {
+                "index": 21,
+                "model_name": "טארו",
+                "model_value": "11599"
+            },
+            {
+                "index": 22,
+                "model_name": "טוארג",
+                "model_value": "10575"
+            },
+            {
+                "index": 23,
+                "model_name": "טוראן",
+                "model_value": "10576"
+            },
+            {
+                "index": 24,
+                "model_name": "טיגואן",
+                "model_value": "10574"
+            },
+            {
+                "index": 25,
+                "model_name": "טרנספורטר",
+                "model_value": "10567"
+            },
+            {
+                "index": 26,
+                "model_name": "מולטיוואן",
+                "model_value": "11589"
+            },
+            {
+                "index": 27,
+                "model_name": "פאסאט",
+                "model_value": "10568"
+            },
+            {
+                "index": 28,
+                "model_name": "פאסאט CC",
+                "model_value": "10569"
+            },
+            {
+                "index": 29,
+                "model_name": "פולו",
+                "model_value": "10571"
+            },
+            {
+                "index": 30,
+                "model_name": "פייטון",
+                "model_value": "10570"
+            },
+            {
+                "index": 31,
+                "model_name": "קאדי",
+                "model_value": "10558"
+            },
+            {
+                "index": 32,
+                "model_name": "קליפורניה",
+                "model_value": "13218"
+            },
+            {
+                "index": 33,
+                "model_name": "קראוול",
+                "model_value": "13107"
+            },
+            {
+                "index": 34,
+                "model_name": "קראפטר",
+                "model_value": "10560"
+            },
+            {
+                "index": 35,
+                "model_name": "שירוקו",
+                "model_value": "10572"
+            }
+        ]
+    },
+    {
+        "index": 100,
+        "brand": "פונטיאק",
+        "value": "42",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "גרנד פרי",
+                "model_value": "10582"
+            },
+            {
+                "index": 1,
+                "model_name": "סולסטיס",
+                "model_value": "10583"
+            }
+        ]
+    },
+    {
+        "index": 101,
+        "brand": "פורד",
+        "value": "43",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "F-150",
+                "model_value": "10594"
+            },
+            {
+                "index": 1,
+                "model_name": "F-250",
+                "model_value": "10595"
+            },
+            {
+                "index": 2,
+                "model_name": "F-350",
+                "model_value": "10596"
+            },
+            {
+                "index": 3,
+                "model_name": "S-מקס",
+                "model_value": "10608"
+            },
+            {
+                "index": 4,
+                "model_name": "אדג'",
+                "model_value": "10590"
+            },
+            {
+                "index": 5,
+                "model_name": "אסקורט",
+                "model_value": "10592"
+            },
+            {
+                "index": 6,
+                "model_name": "אסקייפ",
+                "model_value": "10591"
+            },
+            {
+                "index": 7,
+                "model_name": "אקונוליין",
+                "model_value": "10589"
+            },
+            {
+                "index": 8,
+                "model_name": "אקספדישן",
+                "model_value": "11632"
+            },
+            {
+                "index": 9,
+                "model_name": "אקספלורר",
+                "model_value": "10593"
+            },
+            {
+                "index": 10,
+                "model_name": "ברונקו",
+                "model_value": "10587"
+            },
+            {
+                "index": 11,
+                "model_name": "ברונקו ספורט",
+                "model_value": "11621"
+            },
+            {
+                "index": 12,
+                "model_name": "גלאקסי",
+                "model_value": "10600"
+            },
+            {
+                "index": 13,
+                "model_name": "ווינדסטאר",
+                "model_value": "10614"
+            },
+            {
+                "index": 14,
+                "model_name": "טאורוס",
+                "model_value": "10609"
+            },
+            {
+                "index": 15,
+                "model_name": "טורנאו קאסטום",
+                "model_value": "11662"
+            },
+            {
+                "index": 16,
+                "model_name": "טורנאו קונקט",
+                "model_value": "10610"
+            },
+            {
+                "index": 17,
+                "model_name": "טרייסר",
+                "model_value": "10611"
+            },
+            {
+                "index": 18,
+                "model_name": "טרנזיט",
+                "model_value": "10612"
+            },
+            {
+                "index": 19,
+                "model_name": "טרנזיט קוסטום",
+                "model_value": "10613"
+            },
+            {
+                "index": 20,
+                "model_name": "מאבריק",
+                "model_value": "11649"
+            },
+            {
+                "index": 21,
+                "model_name": "מונדאו",
+                "model_value": "10603"
+            },
+            {
+                "index": 22,
+                "model_name": "מוסטנג",
+                "model_value": "10604"
+            },
+            {
+                "index": 23,
+                "model_name": "מוסטנג Mach-E",
+                "model_value": "11650"
+            },
+            {
+                "index": 24,
+                "model_name": "פומה",
+                "model_value": "10605"
+            },
+            {
+                "index": 25,
+                "model_name": "פוקוס",
+                "model_value": "10598"
+            },
+            {
+                "index": 26,
+                "model_name": "פיאסטה",
+                "model_value": "10597"
+            },
+            {
+                "index": 27,
+                "model_name": "פיוז'ן",
+                "model_value": "10599"
+            },
+            {
+                "index": 28,
+                "model_name": "קוגה",
+                "model_value": "10601"
+            },
+            {
+                "index": 29,
+                "model_name": "ריינג'ר",
+                "model_value": "10606"
+            }
+        ]
+    },
+    {
+        "index": 102,
+        "brand": "פורשה",
+        "value": "44",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "718",
+                "model_value": "10615"
+            },
+            {
+                "index": 1,
+                "model_name": "911",
+                "model_value": "10616"
+            },
+            {
+                "index": 2,
+                "model_name": "911 קאררה",
+                "model_value": "10617"
+            },
+            {
+                "index": 3,
+                "model_name": "בוקסטר",
+                "model_value": "10618"
+            },
+            {
+                "index": 4,
+                "model_name": "טייקן",
+                "model_value": "10623"
+            },
+            {
+                "index": 5,
+                "model_name": "מקאן",
+                "model_value": "10621"
+            },
+            {
+                "index": 6,
+                "model_name": "פאנאמרה",
+                "model_value": "10622"
+            },
+            {
+                "index": 7,
+                "model_name": "קאיימן",
+                "model_value": "10620"
+            },
+            {
+                "index": 8,
+                "model_name": "קאיין",
+                "model_value": "10619"
+            }
+        ]
+    },
+    {
+        "index": 103,
+        "brand": "פורתינג",
+        "value": "334",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "S7",
+                "model_value": "13450"
+            },
+            {
+                "index": 1,
+                "model_name": "פריידי",
+                "model_value": "13190"
+            }
+        ]
+    },
+    {
+        "index": 104,
+        "brand": "פיאג'ו",
+        "value": "90",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "פורטר",
+                "model_value": "10862"
+            }
+        ]
+    },
+    {
+        "index": 105,
+        "brand": "פיאט",
+        "value": "45",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "500",
+                "model_value": "10627"
+            },
+            {
+                "index": 1,
+                "model_name": "500E",
+                "model_value": "12875"
+            },
+            {
+                "index": 2,
+                "model_name": "500L",
+                "model_value": "12874"
+            },
+            {
+                "index": 3,
+                "model_name": "500X",
+                "model_value": "10628"
+            },
+            {
+                "index": 4,
+                "model_name": "Matrix",
+                "model_value": "13061"
+            },
+            {
+                "index": 5,
+                "model_name": "V60SP",
+                "model_value": "13236"
+            },
+            {
+                "index": 6,
+                "model_name": "אוליזה",
+                "model_value": "10649"
+            },
+            {
+                "index": 7,
+                "model_name": "אונו",
+                "model_value": "10650"
+            },
+            {
+                "index": 8,
+                "model_name": "אלבאה",
+                "model_value": "10629"
+            },
+            {
+                "index": 9,
+                "model_name": "בראבה",
+                "model_value": "10630"
+            },
+            {
+                "index": 10,
+                "model_name": "בראבו",
+                "model_value": "10631"
+            },
+            {
+                "index": 11,
+                "model_name": "דובלו",
+                "model_value": "10634"
+            },
+            {
+                "index": 12,
+                "model_name": "דוקאטו",
+                "model_value": "10635"
+            },
+            {
+                "index": 13,
+                "model_name": "טיפו",
+                "model_value": "10648"
+            },
+            {
+                "index": 14,
+                "model_name": "טמפרה",
+                "model_value": "10647"
+            },
+            {
+                "index": 15,
+                "model_name": "כרומה",
+                "model_value": "10633"
+            },
+            {
+                "index": 16,
+                "model_name": "לידו",
+                "model_value": "10651"
+            },
+            {
+                "index": 17,
+                "model_name": "לינאה",
+                "model_value": "10638"
+            },
+            {
+                "index": 18,
+                "model_name": "מולטיפלה",
+                "model_value": "10640"
+            },
+            {
+                "index": 19,
+                "model_name": "מריאה",
+                "model_value": "10639"
+            },
+            {
+                "index": 20,
+                "model_name": "סדיצ'י",
+                "model_value": "10646"
+            },
+            {
+                "index": 21,
+                "model_name": "סקודו",
+                "model_value": "10645"
+            },
+            {
+                "index": 22,
+                "model_name": "פולבק",
+                "model_value": "10637"
+            },
+            {
+                "index": 23,
+                "model_name": "פונטו",
+                "model_value": "10643"
+            },
+            {
+                "index": 24,
+                "model_name": "פיורינו",
+                "model_value": "10636"
+            },
+            {
+                "index": 25,
+                "model_name": "פליו",
+                "model_value": "10641"
+            },
+            {
+                "index": 26,
+                "model_name": "פנדה",
+                "model_value": "10642"
+            },
+            {
+                "index": 27,
+                "model_name": "קובו",
+                "model_value": "10644"
+            },
+            {
+                "index": 28,
+                "model_name": "קופה",
+                "model_value": "10632"
+            }
+        ]
+    },
+    {
+        "index": 106,
+        "brand": "פיג'ו",
+        "value": "46",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "106",
+                "model_value": "10652"
+            },
+            {
+                "index": 1,
+                "model_name": "107",
+                "model_value": "10653"
+            },
+            {
+                "index": 2,
+                "model_name": "108",
+                "model_value": "10654"
+            },
+            {
+                "index": 3,
+                "model_name": "2008",
+                "model_value": "10655"
+            },
+            {
+                "index": 4,
+                "model_name": "205",
+                "model_value": "10656"
+            },
+            {
+                "index": 5,
+                "model_name": "206",
+                "model_value": "10657"
+            },
+            {
+                "index": 6,
+                "model_name": "207",
+                "model_value": "10658"
+            },
+            {
+                "index": 7,
+                "model_name": "208",
+                "model_value": "10659"
+            },
+            {
+                "index": 8,
+                "model_name": "3008",
+                "model_value": "10661"
+            },
+            {
+                "index": 9,
+                "model_name": "301",
+                "model_value": "10662"
+            },
+            {
+                "index": 10,
+                "model_name": "306",
+                "model_value": "10663"
+            },
+            {
+                "index": 11,
+                "model_name": "307",
+                "model_value": "10664"
+            },
+            {
+                "index": 12,
+                "model_name": "308",
+                "model_value": "10665"
+            },
+            {
+                "index": 13,
+                "model_name": "405",
+                "model_value": "10666"
+            },
+            {
+                "index": 14,
+                "model_name": "406",
+                "model_value": "10667"
+            },
+            {
+                "index": 15,
+                "model_name": "407",
+                "model_value": "10668"
+            },
+            {
+                "index": 16,
+                "model_name": "408",
+                "model_value": "11710"
+            },
+            {
+                "index": 17,
+                "model_name": "5008",
+                "model_value": "10669"
+            },
+            {
+                "index": 18,
+                "model_name": "508",
+                "model_value": "10670"
+            },
+            {
+                "index": 19,
+                "model_name": "605",
+                "model_value": "10671"
+            },
+            {
+                "index": 20,
+                "model_name": "607",
+                "model_value": "10672"
+            },
+            {
+                "index": 21,
+                "model_name": "RCZ",
+                "model_value": "10678"
+            },
+            {
+                "index": 22,
+                "model_name": "iOn",
+                "model_value": "10676"
+            },
+            {
+                "index": 23,
+                "model_name": "אקספרט",
+                "model_value": "10675"
+            },
+            {
+                "index": 24,
+                "model_name": "בוקסר",
+                "model_value": "10674"
+            },
+            {
+                "index": 25,
+                "model_name": "ביפר",
+                "model_value": "10673"
+            },
+            {
+                "index": 26,
+                "model_name": "טראוולר",
+                "model_value": "11721"
+            },
+            {
+                "index": 27,
+                "model_name": "פרטנר",
+                "model_value": "10677"
+            },
+            {
+                "index": 28,
+                "model_name": "ריפטר",
+                "model_value": "11720"
+            }
+        ]
+    },
+    {
+        "index": 107,
+        "brand": "פרארי",
+        "value": "57",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "296 GTB",
+                "model_value": "11884"
+            },
+            {
+                "index": 1,
+                "model_name": "458",
+                "model_value": "10819"
+            },
+            {
+                "index": 2,
+                "model_name": "488",
+                "model_value": "10820"
+            },
+            {
+                "index": 3,
+                "model_name": "575M מרנלו",
+                "model_value": "10821"
+            },
+            {
+                "index": 4,
+                "model_name": "812 GTS",
+                "model_value": "11897"
+            },
+            {
+                "index": 5,
+                "model_name": "812 סופרפאסט",
+                "model_value": "10822"
+            },
+            {
+                "index": 6,
+                "model_name": "F12",
+                "model_value": "10824"
+            },
+            {
+                "index": 7,
+                "model_name": "F8 טריבוטו",
+                "model_value": "13036"
+            },
+            {
+                "index": 8,
+                "model_name": "F8 ספיידר",
+                "model_value": "10825"
+            },
+            {
+                "index": 9,
+                "model_name": "GTC4Lusso",
+                "model_value": "10828"
+            },
+            {
+                "index": 10,
+                "model_name": "GTS 296",
+                "model_value": "13037"
+            },
+            {
+                "index": 11,
+                "model_name": "SF90",
+                "model_value": "11911"
+            },
+            {
+                "index": 12,
+                "model_name": "פורוסאנגווה",
+                "model_value": "13262"
+            },
+            {
+                "index": 13,
+                "model_name": "פורטופינו",
+                "model_value": "10829"
+            },
+            {
+                "index": 14,
+                "model_name": "קליפורניה",
+                "model_value": "10823"
+            },
+            {
+                "index": 15,
+                "model_name": "רומא",
+                "model_value": "11910"
+            }
+        ]
+    },
+    {
+        "index": 108,
+        "brand": "צ׳רי",
+        "value": "147",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "FX",
+                "model_value": "13053"
+            },
+            {
+                "index": 1,
+                "model_name": "אריזו 8",
+                "model_value": "13471"
+            },
+            {
+                "index": 2,
+                "model_name": "טיאגו 4 פרו",
+                "model_value": "13479"
+            },
+            {
+                "index": 3,
+                "model_name": "טיגו 7 פרו",
+                "model_value": "13051"
+            },
+            {
+                "index": 4,
+                "model_name": "טיגו 8 פרו",
+                "model_value": "13052"
+            }
+        ]
+    },
+    {
+        "index": 109,
+        "brand": "קאדילק",
+        "value": "47",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "ATS",
+                "model_value": "10679"
+            },
+            {
+                "index": 1,
+                "model_name": "CT5",
+                "model_value": "10680"
+            },
+            {
+                "index": 2,
+                "model_name": "CT6",
+                "model_value": "10681"
+            },
+            {
+                "index": 3,
+                "model_name": "CTS",
+                "model_value": "10682"
+            },
+            {
+                "index": 4,
+                "model_name": "DTS",
+                "model_value": "11728"
+            },
+            {
+                "index": 5,
+                "model_name": "SRX",
+                "model_value": "10687"
+            },
+            {
+                "index": 6,
+                "model_name": "STS",
+                "model_value": "10688"
+            },
+            {
+                "index": 7,
+                "model_name": "XT4",
+                "model_value": "10690"
+            },
+            {
+                "index": 8,
+                "model_name": "XT5",
+                "model_value": "10691"
+            },
+            {
+                "index": 9,
+                "model_name": "XT6",
+                "model_value": "10692"
+            },
+            {
+                "index": 10,
+                "model_name": "XTS",
+                "model_value": "10693"
+            },
+            {
+                "index": 11,
+                "model_name": "אסקלייד",
+                "model_value": "10684"
+            },
+            {
+                "index": 12,
+                "model_name": "סוויל",
+                "model_value": "10686"
+            },
+            {
+                "index": 13,
+                "model_name": "פליטווד",
+                "model_value": "10685"
+            }
+        ]
+    },
+    {
+        "index": 110,
+        "brand": "קארמה",
+        "value": "203",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "GS-6",
+                "model_value": "13055"
+            }
+        ]
+    },
+    {
+        "index": 111,
+        "brand": "קופרה",
+        "value": "92",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אטקה",
+                "model_value": "12132"
+            },
+            {
+                "index": 1,
+                "model_name": "בורן",
+                "model_value": "12133"
+            },
+            {
+                "index": 2,
+                "model_name": "טווסקאן",
+                "model_value": "13133"
+            },
+            {
+                "index": 3,
+                "model_name": "לאון",
+                "model_value": "12135"
+            },
+            {
+                "index": 4,
+                "model_name": "פורמנטור",
+                "model_value": "12134"
+            }
+        ]
+    },
+    {
+        "index": 112,
+        "brand": "קיה",
+        "value": "48",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "EV6",
+                "model_value": "11740"
+            },
+            {
+                "index": 1,
+                "model_name": "EV9",
+                "model_value": "13283"
+            },
+            {
+                "index": 2,
+                "model_name": "K2500",
+                "model_value": "10703"
+            },
+            {
+                "index": 3,
+                "model_name": "K9",
+                "model_value": "10704"
+            },
+            {
+                "index": 4,
+                "model_name": "XCeed",
+                "model_value": "10724"
+            },
+            {
+                "index": 5,
+                "model_name": "אופטימה",
+                "model_value": "10710"
+            },
+            {
+                "index": 6,
+                "model_name": "אופירוס",
+                "model_value": "10709"
+            },
+            {
+                "index": 7,
+                "model_name": "ג'ויס",
+                "model_value": "10702"
+            },
+            {
+                "index": 8,
+                "model_name": "טלורייד",
+                "model_value": "10723"
+            },
+            {
+                "index": 9,
+                "model_name": "מג'נטיס",
+                "model_value": "10705"
+            },
+            {
+                "index": 10,
+                "model_name": "מנטור/ספיה",
+                "model_value": "10707"
+            },
+            {
+                "index": 11,
+                "model_name": "נירו",
+                "model_value": "10708"
+            },
+            {
+                "index": 12,
+                "model_name": "נירו פלוס",
+                "model_value": "13158"
+            },
+            {
+                "index": 13,
+                "model_name": "סול",
+                "model_value": "10719"
+            },
+            {
+                "index": 14,
+                "model_name": "סורנטו",
+                "model_value": "10718"
+            },
+            {
+                "index": 15,
+                "model_name": "סטוניק",
+                "model_value": "10722"
+            },
+            {
+                "index": 16,
+                "model_name": "סטינגר",
+                "model_value": "10721"
+            },
+            {
+                "index": 17,
+                "model_name": "סיד",
+                "model_value": "10698"
+            },
+            {
+                "index": 18,
+                "model_name": "סלטוס",
+                "model_value": "10715"
+            },
+            {
+                "index": 19,
+                "model_name": "ספורטז'",
+                "model_value": "10720"
+            },
+            {
+                "index": 20,
+                "model_name": "ספיה",
+                "model_value": "10716"
+            },
+            {
+                "index": 21,
+                "model_name": "סראטו",
+                "model_value": "10699"
+            },
+            {
+                "index": 22,
+                "model_name": "פורטה",
+                "model_value": "10701"
+            },
+            {
+                "index": 23,
+                "model_name": "פיקנטו",
+                "model_value": "10711"
+            },
+            {
+                "index": 24,
+                "model_name": "פרג'יו",
+                "model_value": "10712"
+            },
+            {
+                "index": 25,
+                "model_name": "פרייד",
+                "model_value": "10713"
+            },
+            {
+                "index": 26,
+                "model_name": "קארנס",
+                "model_value": "10696"
+            },
+            {
+                "index": 27,
+                "model_name": "קדנזה",
+                "model_value": "10695"
+            },
+            {
+                "index": 28,
+                "model_name": "קלארוס",
+                "model_value": "10700"
+            },
+            {
+                "index": 29,
+                "model_name": "קרניבל",
+                "model_value": "10697"
+            },
+            {
+                "index": 30,
+                "model_name": "ריו",
+                "model_value": "10714"
+            },
+            {
+                "index": 31,
+                "model_name": "שומה",
+                "model_value": "10717"
+            }
+        ]
+    },
+    {
+        "index": 113,
+        "brand": "קיי גי אם",
+        "value": "344",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "טורס",
+                "model_value": "13286"
+            },
+            {
+                "index": 1,
+                "model_name": "טיבולי",
+                "model_value": "13285"
+            },
+            {
+                "index": 2,
+                "model_name": "מוסו",
+                "model_value": "13366"
+            },
+            {
+                "index": 3,
+                "model_name": "רקסטון",
+                "model_value": "13291"
+            }
+        ]
+    },
+    {
+        "index": 114,
+        "brand": "קרייזלר",
+        "value": "49",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "300",
+                "model_value": "10725"
+            },
+            {
+                "index": 1,
+                "model_name": "300M",
+                "model_value": "10727"
+            },
+            {
+                "index": 2,
+                "model_name": "PT קרוזר",
+                "model_value": "10732"
+            },
+            {
+                "index": 3,
+                "model_name": "גראנד וויאג'ר",
+                "model_value": "10729"
+            },
+            {
+                "index": 4,
+                "model_name": "וויאג'ר",
+                "model_value": "10737"
+            },
+            {
+                "index": 5,
+                "model_name": "טאון אנד קאנטרי",
+                "model_value": "10736"
+            },
+            {
+                "index": 6,
+                "model_name": "נאון",
+                "model_value": "10730"
+            },
+            {
+                "index": 7,
+                "model_name": "סברינג",
+                "model_value": "10734"
+            },
+            {
+                "index": 8,
+                "model_name": "סטרטוס",
+                "model_value": "10735"
+            },
+            {
+                "index": 9,
+                "model_name": "סרטוגה",
+                "model_value": "10733"
+            },
+            {
+                "index": 10,
+                "model_name": "פסיפיקה",
+                "model_value": "10731"
+            },
+            {
+                "index": 11,
+                "model_name": "קרוספייר",
+                "model_value": "10728"
+            }
+        ]
+    },
+    {
+        "index": 115,
+        "brand": "ראם",
+        "value": "91",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "1500",
+                "model_value": "12130"
+            },
+            {
+                "index": 1,
+                "model_name": "2500",
+                "model_value": "12131"
+            },
+            {
+                "index": 2,
+                "model_name": "3500",
+                "model_value": "13303"
+            }
+        ]
+    },
+    {
+        "index": 116,
+        "brand": "רובר",
+        "value": "50",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "200",
+                "model_value": "10738"
+            },
+            {
+                "index": 1,
+                "model_name": "25",
+                "model_value": "10739"
+            },
+            {
+                "index": 2,
+                "model_name": "400",
+                "model_value": "10740"
+            },
+            {
+                "index": 3,
+                "model_name": "420",
+                "model_value": "10741"
+            },
+            {
+                "index": 4,
+                "model_name": "45",
+                "model_value": "10742"
+            },
+            {
+                "index": 5,
+                "model_name": "600",
+                "model_value": "10743"
+            },
+            {
+                "index": 6,
+                "model_name": "75",
+                "model_value": "10744"
+            },
+            {
+                "index": 7,
+                "model_name": "800",
+                "model_value": "10745"
+            },
+            {
+                "index": 8,
+                "model_name": "MGF",
+                "model_value": "10747"
+            }
+        ]
+    },
+    {
+        "index": 117,
+        "brand": "רולס רויס",
+        "value": "58",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "ספקטר",
+                "model_value": "13247"
+            }
+        ]
+    },
+    {
+        "index": 119,
+        "brand": "רנו",
+        "value": "51",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "19",
+                "model_value": "10748"
+            },
+            {
+                "index": 1,
+                "model_name": "אוסטרל",
+                "model_value": "13094"
+            },
+            {
+                "index": 2,
+                "model_name": "אקספרס",
+                "model_value": "10753"
+            },
+            {
+                "index": 3,
+                "model_name": "ארקנה",
+                "model_value": "11795"
+            },
+            {
+                "index": 4,
+                "model_name": "וול-סאטיס",
+                "model_value": "10769"
+            },
+            {
+                "index": 5,
+                "model_name": "זואי",
+                "model_value": "10770"
+            },
+            {
+                "index": 6,
+                "model_name": "טווינגו",
+                "model_value": "10768"
+            },
+            {
+                "index": 7,
+                "model_name": "טליה/סימבול",
+                "model_value": "10766"
+            },
+            {
+                "index": 8,
+                "model_name": "טראפיק",
+                "model_value": "10767"
+            },
+            {
+                "index": 9,
+                "model_name": "לגונה",
+                "model_value": "10758"
+            },
+            {
+                "index": 10,
+                "model_name": "לוגאן",
+                "model_value": "10760"
+            },
+            {
+                "index": 11,
+                "model_name": "לטיטוד",
+                "model_value": "10759"
+            },
+            {
+                "index": 12,
+                "model_name": "מאסטר",
+                "model_value": "10761"
+            },
+            {
+                "index": 13,
+                "model_name": "מגאן",
+                "model_value": "10762"
+            },
+            {
+                "index": 14,
+                "model_name": "מגאן E-Tech",
+                "model_value": "13056"
+            },
+            {
+                "index": 15,
+                "model_name": "סנדרו",
+                "model_value": "10764"
+            },
+            {
+                "index": 16,
+                "model_name": "סניק",
+                "model_value": "10765"
+            },
+            {
+                "index": 17,
+                "model_name": "ספרן",
+                "model_value": "10763"
+            },
+            {
+                "index": 18,
+                "model_name": "פלואנס",
+                "model_value": "10754"
+            },
+            {
+                "index": 19,
+                "model_name": "קדגא'ר",
+                "model_value": "10755"
+            },
+            {
+                "index": 20,
+                "model_name": "קוליאוס",
+                "model_value": "10757"
+            },
+            {
+                "index": 21,
+                "model_name": "קליאו",
+                "model_value": "10751"
+            },
+            {
+                "index": 22,
+                "model_name": "קנגו",
+                "model_value": "10756"
+            },
+            {
+                "index": 23,
+                "model_name": "קפצ'ור",
+                "model_value": "10750"
+            }
+        ]
+    },
+    {
+        "index": 120,
+        "brand": "שברולט",
+        "value": "52",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "אבאו",
+                "model_value": "10773"
+            },
+            {
+                "index": 1,
+                "model_name": "אופטרה",
+                "model_value": "10791"
+            },
+            {
+                "index": 2,
+                "model_name": "אורלנדו",
+                "model_value": "10792"
+            },
+            {
+                "index": 3,
+                "model_name": "אימפלה",
+                "model_value": "10785"
+            },
+            {
+                "index": 4,
+                "model_name": "אלרו",
+                "model_value": "10771"
+            },
+            {
+                "index": 5,
+                "model_name": "אסטרו",
+                "model_value": "10772"
+            },
+            {
+                "index": 6,
+                "model_name": "אפיקה",
+                "model_value": "10783"
+            },
+            {
+                "index": 7,
+                "model_name": "אפלנדר",
+                "model_value": "10802"
+            },
+            {
+                "index": 8,
+                "model_name": "אקווינוקס",
+                "model_value": "10784"
+            },
+            {
+                "index": 9,
+                "model_name": "בולט EUV",
+                "model_value": "11825"
+            },
+            {
+                "index": 10,
+                "model_name": "בולט EV",
+                "model_value": "11826"
+            },
+            {
+                "index": 11,
+                "model_name": "בלייזר",
+                "model_value": "10774"
+            },
+            {
+                "index": 12,
+                "model_name": "וולט",
+                "model_value": "10804"
+            },
+            {
+                "index": 13,
+                "model_name": "ויואנט/רזו",
+                "model_value": "10803"
+            },
+            {
+                "index": 14,
+                "model_name": "טאהו",
+                "model_value": "10798"
+            },
+            {
+                "index": 15,
+                "model_name": "טראוורס",
+                "model_value": "10800"
+            },
+            {
+                "index": 16,
+                "model_name": "טראקס",
+                "model_value": "10801"
+            },
+            {
+                "index": 17,
+                "model_name": "טרייל בלייזר",
+                "model_value": "10799"
+            },
+            {
+                "index": 18,
+                "model_name": "לומינה מיניוואן",
+                "model_value": "10787"
+            },
+            {
+                "index": 19,
+                "model_name": "מאליבו",
+                "model_value": "10788"
+            },
+            {
+                "index": 20,
+                "model_name": "מונטה קרלו",
+                "model_value": "10789"
+            },
+            {
+                "index": 21,
+                "model_name": "סוברבן",
+                "model_value": "10797"
+            },
+            {
+                "index": 22,
+                "model_name": "סוואנה",
+                "model_value": "10793"
+            },
+            {
+                "index": 23,
+                "model_name": "סוניק",
+                "model_value": "10795"
+            },
+            {
+                "index": 24,
+                "model_name": "סילברדו",
+                "model_value": "10794"
+            },
+            {
+                "index": 25,
+                "model_name": "סילברדו EV",
+                "model_value": "13374"
+            },
+            {
+                "index": 26,
+                "model_name": "ספארק",
+                "model_value": "10796"
+            },
+            {
+                "index": 27,
+                "model_name": "קאמארו",
+                "model_value": "10775"
+            },
+            {
+                "index": 28,
+                "model_name": "קוואליר",
+                "model_value": "10777"
+            },
+            {
+                "index": 29,
+                "model_name": "קולורדו",
+                "model_value": "10779"
+            },
+            {
+                "index": 30,
+                "model_name": "קורבט",
+                "model_value": "10781"
+            },
+            {
+                "index": 31,
+                "model_name": "קורסיקה",
+                "model_value": "10780"
+            },
+            {
+                "index": 32,
+                "model_name": "קפטיבה",
+                "model_value": "10776"
+            },
+            {
+                "index": 33,
+                "model_name": "קרוז",
+                "model_value": "10782"
+            }
+        ]
+    },
+    {
+        "index": 121,
+        "brand": "תעשיות רכב",
+        "value": "59",
+        "models": [
+            {
+                "index": 0,
+                "model_name": "סופה",
+                "model_value": "10831"
+            }
+        ]
+    }
+]
