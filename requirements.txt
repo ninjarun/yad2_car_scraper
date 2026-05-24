@@ -1,10 +1,22 @@
-python-telegram-bot==21.4
-selenium>=4.24.0
+# Yad2 cars scraper / Telegram bot dependencies
+# Python: 3.10+ recommended
+
+# Browser automation / scraping
+selenium>=4.20.0
 undetected-chromedriver>=3.5.5
+requests>=2.31.0
+
+# Data processing / exports
 pandas>=2.2.0
-scipy>=1.13.0
-requests>=2.32.0
+scipy>=1.11.0
 openpyxl>=3.1.0
-stripe>=11.0.0
+
+# Telegram bot UI
+python-telegram-bot==21.4
+
+# Stripe payments + webhook server
+stripe>=10.0.0
 Flask>=3.0.0
 
+# Utility import used by yad2dropDown.py
+click>=8.1.0
