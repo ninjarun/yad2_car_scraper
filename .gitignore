@@ -1,0 +1,19 @@
+# Python Environments
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Web Scraping Output (so you don't upload massive scraped datasets)
+*.csv
+*.xlsx
+*.json
+
+# Secrets & Credentials (Proxies, DB passwords, etc.)
+.env
+config.ini
+
+# WebDriver logs (Selenium / undetected-chromedriver)
+geckodriver.log
+chromedriver.log
