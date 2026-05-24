@@ -17,3 +17,18 @@ config.ini
 # WebDriver logs (Selenium / undetected-chromedriver)
 geckodriver.log
 chromedriver.log
+
+# Databases
+*.db
+oldyad2_cars.db
+
+# Bright Data & Proxies
+*.crt
+credentials.txt
+console log.txt
+
+# Backups and Data
+*.zip
+*.xlsx
+Backup*/
+
