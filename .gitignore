@@ -8,7 +8,6 @@ __pycache__/
 # Web Scraping Output (so you don't upload massive scraped datasets)
 *.csv
 *.xlsx
-*.json
 
 # Secrets & Credentials (Proxies, DB passwords, etc.)
 .env
